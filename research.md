@@ -1,6 +1,6 @@
 ---
 layout: page
-title: researcj
+title: research
 subtitle: Our Research
 ---
 Insert stuff here
