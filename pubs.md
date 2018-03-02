@@ -3,6 +3,6 @@ layout: page
 title: pubs
 subtitle: Ramani Lab Publications
 ---
-Insert stuff here
+Figure out how to link bibliography
 
 ###Sample heading
