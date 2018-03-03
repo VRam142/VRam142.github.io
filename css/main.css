@@ -9,7 +9,7 @@ layout: null
 body {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial;
   font-size: 18px;
-  color: #404040;
+  color: #000000;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
@@ -33,7 +33,7 @@ a:focus {
   color: {{ site.hover-col }};
 }
 blockquote {
-  color: #808080;
+  color: #000000;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -134,7 +134,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #2e90c9;
 }
 
 .navbar-custom .navbar-brand-logo {
