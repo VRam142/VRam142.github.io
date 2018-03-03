@@ -8,7 +8,7 @@ layout: null
 
 body {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial;
-  font-size: 18px;
+  font-size: 30px;
   color: #000000;
   position: relative;
   background-color: {{ site.page-col }};
@@ -107,7 +107,7 @@ img {
 
 .navbar-custom {
   background: #000000;
-  border-bottom: 1px solid #0a81d1;
+  border-bottom: 10px solid #0a81d1;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-col %}
   background: {{ site.navbar-col }};
