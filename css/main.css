@@ -7,8 +7,8 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 12px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial;
+  font-size: 18px;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
@@ -23,7 +23,7 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 200;
+  font-weight: 800;
 }
 a {
   color: {{ site.link-col }};
@@ -120,13 +120,13 @@ img {
 
 .navbar-custom .nav li a {
   text-transform: lowercase;
-  font-size: 30px;
+  font-size: 18px;
   letter-spacing: 1px;
 }
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 600;
+  font-weight: 400;
   color: #ffffff;
 }
 
