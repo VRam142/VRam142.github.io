@@ -1,6 +1,6 @@
 ---
 layout: page
-title: pubs
+title: publications
 subtitle: Ramani Lab Publications
 ---
 Figure out how to link bibliography
