@@ -1,0 +1,21 @@
+- title: Massively multiplex something
+  image: dummy.png
+  description:
+    Insert description here.
+  authors:
+    Author1, Author2, Author3
+  link:
+    url: https://scholar.google.com/citations?user=BjwGIbcAAAAJ&hl=en
+    display: Journal of Published Results
+  highlight: 1
+
+- title: High-throughput something else =)
+  image: dummy.png
+  description:
+    Insert description here.
+  authors:
+    Author1, Author2, Author3
+  link:
+    url: https://scholar.google.com/citations?user=BjwGIbcAAAAJ&hl=en
+    display: Journal of Published Results
+  highlight: 0
