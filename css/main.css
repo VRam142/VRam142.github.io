@@ -266,8 +266,8 @@ img {
 
 footer {
   padding: 15px 0;
-  border-top: 10px #EAEAEA solid;
-  margin-top: 25px;
+  border-top: 10px #0a81d1 solid;
+  margin-top: 10px;
   font-size: 14px;
   background-color: {{ site.footer-col }};
   {% if site.footer-img %}
@@ -295,18 +295,18 @@ footer .copyright {
 }
 footer .theme-by {
   text-align: center;
-  margin: 10px 0 0;
+  margin: 5px 0 0;
 }
 
 @media only screen and (min-width: 768px) {
   footer {
-    padding: 50px 0;
+    padding: 25px 0;
   }
   footer .footer-links {
-    font-size: 18px;
+    font-size: 9px;
   }
   footer .copyright {
-    font-size: 16px;
+    font-size: 8px;
   }
 }
 
