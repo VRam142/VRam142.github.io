@@ -3,7 +3,9 @@ layout: gridlay
 title: people
 subtitle: Ramani Lab Members
 ---
-<h1>Ramani Lab Members</h1>
+
+
+# Ramani Lab Members
 {% for person in site.data.members %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
