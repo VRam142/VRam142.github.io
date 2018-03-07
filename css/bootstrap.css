@@ -4843,7 +4843,7 @@ a.badge:focus {
   color: inherit;
   background-color: #eee;
   border: 5px;
-  border-color: #fff;
+  border-color: #000000;
 }
 .jumbotron h1,
 .jumbotron .h1 {
