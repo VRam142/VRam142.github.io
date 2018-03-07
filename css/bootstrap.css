@@ -4838,8 +4838,8 @@ a.badge:focus {
   margin-left: 3px;
 }
 .jumbotron {
-  padding: 30px 15px;
-  margin-bottom: 30px;
+  padding: 15px 7.5px;
+  margin-bottom: 10px;
   color: inherit;
   background-color: #eee;
 }
