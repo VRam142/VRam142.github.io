@@ -4842,6 +4842,8 @@ a.badge:focus {
   margin-bottom: 10px;
   color: inherit;
   background-color: #eee;
+  border: 5px;
+  border-color: #fff;
 }
 .jumbotron h1,
 .jumbotron .h1 {
