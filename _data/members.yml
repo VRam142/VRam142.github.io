@@ -1,11 +1,3 @@
-- name: Foo Bar
-  image: /img/hello_world.jpeg
-  altimage: /img/hello_world.jpeg
-  position: Foo Bar Ing
-  email: foo (at) bar.baz
-#  scholar:
-  description: "Lorum Ipsem Dolor Sit"
-
 - name: Vijay Ramani
   image: /img/Untitled.png
   altimage: /img/Untitled.png
@@ -13,10 +5,22 @@
   email: vijay.ramani (at) ucsf.edu
   scholar: BjwGIbcAAAAJ
   twitter: "vram142"
-  orcid: "orcid.org/0000-0003-3345-5960"
+# orcid: "orcid.org/0000-0003-3345-5960"
   description: 'I finished my B.S.E. in Chemical Engineering at Princeton University, with minors in Quantitative Biology and Engineering Biology
-    While at Princeton, I took part in David Botstein''s [Integrated Science Curriculum]{https://lsi.princeton.edu/integratedscience}; this course sequence played a huge part in
+    While at Princeton, I took part in David Botstein''s [Integrated Science Curriculum](https://lsi.princeton.edu/integratedscience); this course sequence played a huge part in
     motivating me to pursue research in quantitative molecular biology.
+
+    After finishing my undergraduate degree in 2012, I spent a year as a Research Intern / Computational Biologist working in the Bay Area at [Sangamo BioSciences](https://www.sangamo.com/) (now Sangamo Therapeutics). There,
+    I worked closely with Jeff Miller and Edward Rebar to develop high-throughput sequencing assays to map potential off-target genomic sites for *de novo* engineered zinc finger and TALE nucleases. The first papers applying
+    CRISPR-Cas9 editing in human cells were published around when I was leaving Sangamo, and the perspective I gained working for some of the first people to develop genome-editing reagents has been invaluable as CRISPR has
+    quickly become a default molecular biological tool.
+
+    I then moved to Seattle, where I completed my Ph.D. in Genome Sciences in Jay Shendure''s lab. In Jay''s lab, I first developed new molecular technologies to study biomolecular phenomena at scale. I developed RNA Proximity Ligation, a high-throughput method
+    to resolve RNA structures transcriptome-wide using proximity ligation and sequencing. I then worked with Andrew Adey, Junyue Cao, Darren Cusanovich, and a bunch of other incredibly talented scientists
+    to co-develop single-cell combinatorial indexing--a methodological strategy to molecularly tag intact cells and nuclei with DNA barcodes to make genome-wide biochemical measurements in thousands of single-cells in parallel,
+    without ever resorting to isolating individual cells or nuclei. This indexing paradigm, termed "sci" for short, is just one of a few novel molecular approaches that will power my lab''s approach to studying gene reguatory questions.
+
+    In the Fall of 2018, I will be starting my own group at UC San Francisco. Our overarching goal will be to continue developing novel molecular methods to study gene regulatory phenomena across the central dogma!
     '
 - name: Foo Bar
   image: /img/hello_world.jpeg
@@ -26,10 +30,7 @@
 #  scholar:
   description: "Lorum Ipsem Dolor Sit"
 #
-#     After finishing my undergraduate degree in 2012, I spent a year as a Research Intern / Computational Biologist working in the Bay Area at [Sangamo BioSciences]{https://www.sangamo.com/} (now Sangamo Therapeutics). There,
-#     I worked closely with Jeff Miller and Edward Rebar to develop high-throughput sequencing assays to map potential off-target genomic sites for *de novo* engineered zinc finger and TALE nucleases. The first papers applying
-#     CRISPR-Cas9 editing in human cells were published around when I was leaving Sangamo, and the perspective I gained working for some of the first people to develop genome-editing reagents has been invaluable as CRISPR has
-#     quickly become a default molecular biological tool.
+#
 #
 #     I then moved to Seattle, where I completed my Ph.D. in Genome Sciences in Jay Shendure''s lab. In Jay''s lab, I first developed new molecular technologies to study biomolecular phenomena at scale. I developed RNA Proximity Ligation, a high-throughput method
 #     to resolve RNA structures transcriptome-wide using proximity ligation and sequencing. I then worked with Andrew Adey, Junyue Cao, Darren Cusanovich, and a bunch of other incredibly talented scientists
