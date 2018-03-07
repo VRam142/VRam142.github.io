@@ -139,19 +139,19 @@ img {
 }
 
 .navbar-custom .navbar-brand-logo {
-  padding-top: 20px;
+  padding-top: 10px;
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
 }
 .navbar-custom .navbar-brand-logo img {
-  height: 20px;
+  height: 10px;
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo {
-  padding-top: 20%;
+  padding-top: 100%;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo img {
   height: 20px;
@@ -265,7 +265,7 @@ img {
 /* --- Footer --- */
 
 footer {
-  padding: 15px 0;
+  padding: 10px 0;
   border-top: 10px #0a81d1 solid;
   margin-top: 10px;
   font-size: 14px;
