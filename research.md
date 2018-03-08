@@ -1,8 +1,20 @@
 ---
-layout: page
+layout: gridlay
 title: research
-subtitle: Our Research
+subtitle: Ramani Lab Research
 ---
-Insert stuff here
 
-### Sample heading
+# Our Research Interests
+{% for project in site.data.research_aims %}
+<hr>
+<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+<div id = "{{person.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-lg-8">
+        <img class="img-responsive" src="{{project.image}}" {% if person.altimage %} onmouseover="this.src='{{project.altimage}}';" onmouseout="this.src='{{project.image}}';" {% endif %} alt="{{project.name}}"><br>
+        <strong>{{project.name}}</strong> <br>
+    </div>
+    <div class="col-lg-8">
+        <p class="text-justify">{{project.description | markdownify}}</p>
+    </div>
+</div>
+{% endfor %}

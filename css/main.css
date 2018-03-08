@@ -140,7 +140,7 @@ img {
 
 .navbar-custom .navbar-brand-logo {
   padding-top: 10px;
-  -webkit-transition: padding .5s ease-in-out; 
+  -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
 }
@@ -160,9 +160,9 @@ img {
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     padding: 20px 0;
-    /*  -webkit-transition: padding .5s ease-in-out; */
-    /*  -moz-transition: padding .5s ease-in-out; */
-    /*  transition: padding .5s ease-in-out; */
+    -webkit-transition: padding .5s ease-in-out;
+    -moz-transition: padding .5s ease-in-out;
+    transition: padding .5s ease-in-out;
   }
 
   .navbar-custom.top-nav-short {
