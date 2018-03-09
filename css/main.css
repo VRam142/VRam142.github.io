@@ -783,8 +783,8 @@ td.gutter {
   margin-bottom: 10px;
   margin-top: 10px;
   background-color: #eee;
-  border: 5px;
-  border-color: #000000;
+  border: 10px;
+  border-color: #000000 !important;
 }
 .jumbotron.jumbotron-correct p {
   padding-right: 10px;
