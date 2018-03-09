@@ -159,14 +159,14 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    padding: 30;
+    padding: 40;
     -webkit-transition: padding .5s ease-in-out;
     -moz-transition: padding .5s ease-in-out;
     transition: padding .5s ease-in-out;
   }
 
   .navbar-custom.top-nav-short {
-    padding: 30;
+    padding: 40;
   }
 }
 
