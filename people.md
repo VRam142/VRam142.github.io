@@ -5,7 +5,7 @@ subtitle: Ramani Lab Members
 ---
 
 
-# Ramani Lab Members
+# **lab members**
 {% for person in site.data.members %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->

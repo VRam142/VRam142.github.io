@@ -6,9 +6,9 @@ sitemap: false
 ---
 
 
-# Publications
+# **publications**
 
-## Highlights
+## *highlights*
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=BjwGIbcAAAAJ&hl=en)
 

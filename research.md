@@ -4,7 +4,7 @@ title: research
 subtitle: Ramani Lab Research
 ---
 
-# Our Research Interests
+# **research interests**
 {% for project in site.data.research_aims %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->

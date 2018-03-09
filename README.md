@@ -1,1 +1,1 @@
-This lab website uses Beautiful-Jekyll as a base, and then has elements hacked together from several sources, including the [Allan Lab]{http://www.allanlab.org/} and ______. Thanks to those who made their website source public / allowed me to borrow snippets of code! 
+This lab website uses Beautiful-Jekyll as a base, and then has elements hacked together from several sources, including the [Allan Lab](http://www.allanlab.org/), the [Fraser Lab] ______. Thanks to those who made their website source public / allowed me to borrow snippets of code! 
