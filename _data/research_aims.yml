@@ -1,4 +1,4 @@
-- title: Dissecting gene regulatory mechanisms through molecular barcoding
+- title: *Dissecting gene regulatory mechanisms through molecular barcoding*
 #- title: Project 1
   image: /img/hello_world.jpeg
   altimage: /img/hello_world.jpeg
@@ -10,7 +10,7 @@
     biochemistry, and extend massively parallel measurement to study gene regulation at the level of protein.
     '
 #  title: Cellularization of the regulatory networks coupling cell metabolism and transcriptional regulation
-- title: Project 2
+- title: *Project 2*
   image: /img/hello_world.jpeg
   altimage: /img/hello_world.jpeg
 # orcid: "orcid.org/0000-0003-3345-5960"
@@ -18,7 +18,7 @@
     To be written To be written To be written To be written To be written To be written
     '
 
-- title: Project 3
+- title: *Project 3*
 #- title: Mechanisms underlying transcriptional regulation of metazoan RNA Polymerase III
   image: /img/hello_world.jpeg
   altimage: /img/hello_world.jpeg
