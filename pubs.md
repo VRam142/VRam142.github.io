@@ -2,15 +2,14 @@
 title: "Ramani Lab - Publications"
 layout: gridlay
 excerpt: "Ramani Lab -- Publications."
-sitemap: false
 ---
 
 
 # **publications**
-
+<hr>
 ## *highlights*
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=BjwGIbcAAAAJ&hl=en)
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=BjwGIbcAAAAJ&hl=en))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -51,7 +50,7 @@ sitemap: false
 <p> &nbsp; </p>
 
 
-## Full List
+## *full list*
 
 {% for publi in site.data.publist %}
 
