@@ -4866,7 +4866,9 @@ a.badge:focus {
 }
 @media screen and (min-width: 768px) {
   .jumbotron {
-    padding: 48px 0;
+    padding: 20px 0;
+    border: 5px;
+    border-color: #000;
   }
   .container .jumbotron,
   .container-fluid .jumbotron {
