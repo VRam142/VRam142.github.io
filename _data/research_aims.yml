@@ -1,30 +1,31 @@
-#- title: Dissecting gene regulatory mechanisms through molecular barcoding
-- title: Project 1
+- title: Dissecting gene regulatory mechanisms through molecular barcoding
+#- title: Project 1
   image: /img/hello_world.jpeg
   altimage: /img/hello_world.jpeg
 # orcid: "orcid.org/0000-0003-3345-5960"
-  # description: 'We develop high-throughput tools to study how biology''s central dogma is regulated. Many of the methods we develop and employ
-  #   employ molecular biology to tag nucleic acids and proteins with unique genomic or proteomic identifiers, which we then use to quantify biological phenomena at the level of single
-  #   cells and single-molecules at high-resolution and scale. To this end, we are employing strategies like single-cell combinatorial indexing ("sci" sequencing) to label DNA and RNA, to measure
-  #   protein-nucleic acid interactions, transcriptional dynamics, and small RNA abundances *in vivo* in thousands of single cells in parallel. We are also leveraging cutting-edge mass spectrometric techniques to carry out high-throughput proteomic
-  #   biochemistry, and extend massively parallel measurement to study gene regulation at the level of protein.
-  #   '
-  description: 'To be written'
-#- title: Cellularization of the regulatory networks coupling cell metabolism and transcriptional regulation
+  description: 'We develop high-throughput tools to study how biology''s central dogma is regulated. Many of the methods we develop and employ
+    employ molecular biology to tag nucleic acids and proteins with unique genomic or proteomic identifiers, which we then use to quantify biological phenomena at the level of single
+    cells and single-molecules at high-resolution and scale. To this end, we are employing strategies like single-cell combinatorial indexing ("sci" sequencing) to label DNA and RNA, to measure
+    protein-nucleic acid interactions, transcriptional dynamics, and small RNA abundances *in vivo* in thousands of single cells in parallel. We are also leveraging cutting-edge mass spectrometric techniques to carry out high-throughput proteomic
+    biochemistry, and extend massively parallel measurement to study gene regulation at the level of protein.
+    '
+#  title: Cellularization of the regulatory networks coupling cell metabolism and transcriptional regulation
 - title: Project 2
   image: /img/hello_world.jpeg
   altimage: /img/hello_world.jpeg
 # orcid: "orcid.org/0000-0003-3345-5960"
-  description: 'To be written
-  '
+  description: 'To be written To be written To be written To be written To be written
+    To be written To be written To be written To be written To be written To be written
+    '
 
 - title: Project 3
 #- title: Mechanisms underlying transcriptional regulation of metazoan RNA Polymerase III
   image: /img/hello_world.jpeg
   altimage: /img/hello_world.jpeg
 # orcid: "orcid.org/0000-0003-3345-5960"
-  description: 'To be written
-  '
+  description: 'To be written To be written To be written To be written To be written To be written
+    To be written To be written To be written To be written To be written To be written
+    '
 #
 #
 #
