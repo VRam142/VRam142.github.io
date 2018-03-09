@@ -11,7 +11,7 @@ subtitle: Ramani Lab Research
 <div id = "{{project.title}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-12">
         <h2 align="center" > {{project.title | markdownify}} </h2> <br>
-        <img align="center" class="img-responsive" src="{{project.image}}" {% if project.altimage %} onmouseover="this.src='{{project.altimage}}';" onmouseout="this.src='{{project.image}}';" {% endif %} alt="{{project.title}}"><br>
+        <img align="center" class="img-responsive center-block" src="{{project.image}}" {% if project.altimage %} onmouseover="this.src='{{project.altimage}}';" onmouseout="this.src='{{project.image}}';" {% endif %} alt="{{project.title}}"><br>
     </div>
     <div class="col-sm-12">
         <p class="text-justify">{{project.description | markdownify}}</p>
