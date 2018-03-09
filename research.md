@@ -10,9 +10,8 @@ subtitle: Ramani Lab Research
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div id = "{{project.title}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-12">
+        <h2 class="text-center"> {{project.name}} </h2> <br>
         <img class="img-responsive" src="{{project.image}}" {% if project.altimage %} onmouseover="this.src='{{project.altimage}}';" onmouseout="this.src='{{project.image}}';" {% endif %} alt="{{project.title}}"><br>
-        <h2> placeholder </h2>
-        <strong>{{project.name}}</strong> <br>
     </div>
     <div class="col-sm-12">
         <p class="text-justify">{{project.description | markdownify}}</p>
