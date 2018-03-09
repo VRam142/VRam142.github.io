@@ -1,7 +1,7 @@
 #- title: Dissecting gene regulatory mechanisms through molecular barcoding
 - title: Project 1
-  image: /img/hello_wold.jpeg
-  altimage: /img/hello_wold.jpeg
+  image: /img/hello_world.jpeg
+  altimage: /img/hello_world.jpeg
 # orcid: "orcid.org/0000-0003-3345-5960"
   # description: 'We develop high-throughput tools to study how biology''s central dogma is regulated. Many of the methods we develop and employ
   #   employ molecular biology to tag nucleic acids and proteins with unique genomic or proteomic identifiers, which we then use to quantify biological phenomena at the level of single
@@ -12,16 +12,16 @@
   description: 'To be written'
 #- title: Cellularization of the regulatory networks coupling cell metabolism and transcriptional regulation
 - title: Project 2
-  image: /img/hello_wold.jpeg
-  altimage: /img/hello_wold.jpeg
+  image: /img/hello_world.jpeg
+  altimage: /img/hello_world.jpeg
 # orcid: "orcid.org/0000-0003-3345-5960"
   description: 'To be written
   '
 
 - title: Project 3
 #- title: Mechanisms underlying transcriptional regulation of metazoan RNA Polymerase III
-  image: /img/hello_wold.jpeg
-  altimage: /img/hello_wold.jpeg
+  image: /img/hello_world.jpeg
+  altimage: /img/hello_world.jpeg
 # orcid: "orcid.org/0000-0003-3345-5960"
   description: 'To be written
   '
