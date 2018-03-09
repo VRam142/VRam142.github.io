@@ -4851,9 +4851,15 @@ a.badge:focus {
   color: inherit;
 }
 .jumbotron p {
+  font-family:'Helvetica', sans-serif;
+  font-size: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
   margin-bottom: 10px;
-  font-size: 15px;
-  font-weight: 300;
+  margin-top: 10px;
+  background-color: #eee;
+  border: 5px;
+  border-color: #000000;
 }
 .jumbotron > hr {
   padding-right: 10px;
