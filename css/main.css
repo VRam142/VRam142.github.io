@@ -778,7 +778,7 @@ td.gutter {
 }
 
 .jumbotron.jumbotron-correct {
-  font-family:'Helvetica', sans-serif;
+  /*font-family:'Helvetica', sans-serif;
   font-size: 15px;
   text-align: center;
   padding-left: 1px;
@@ -788,9 +788,10 @@ td.gutter {
   outline-width: thick;
   outline-style: solid;
   background-color: #eee;
-  outline-color: #000000;
+  outline-color: #000000;*/
 }
 .jumbotron.jumbotron-correct p {
+  border: 1px solid #ddd;
   font-family:'Helvetica', sans-serif;
   font-size: 15px;
   text-align: center;
@@ -798,7 +799,6 @@ td.gutter {
   padding-right: 1px;
   padding-bottom: 1px;
   padding-top: 1px;
-  border-width: thick;
   background-color: #eee;
   border-color: #000000;
 }
