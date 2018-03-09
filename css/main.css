@@ -778,15 +778,6 @@ td.gutter {
 }
 
 .jumbotron.jumbotron-correct {
-  /*padding-right: 10px;
-  padding-left: 10px;
-  margin-bottom: 5px;
-  margin-top: 5px;
-  background-color: #eee;
-  border: 5px;
-  border-color: #000000 !important;*/
-}
-.jumbotron.jumbotron-correct p {
   font-family:'Helvetica', sans-serif;
   font-size: 15px;
   text-align: center;
@@ -798,4 +789,16 @@ td.gutter {
   outline-style: solid;
   background-color: #eee;
   outline-color: #000000;
+}
+.jumbotron.jumbotron-correct p {
+  font-family:'Helvetica', sans-serif;
+  font-size: 15px;
+  text-align: center;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-bottom: 1px;
+  padding-top: 1px;
+  border-width: thick;
+  background-color: #eee;
+  border-color: #000000;
 }
