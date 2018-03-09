@@ -4,7 +4,6 @@ title: people
 subtitle: Ramani Lab Members
 ---
 
-
 # **lab members**
 {% for person in site.data.members %}
 <hr>
