@@ -268,7 +268,7 @@ footer {
   padding: 5px 0;
   border-top: 10px #0a81d1 solid;
   margin-top: 5px;
-  font-size: 14px;
+  font-size: 20px;
   background-color: {{ site.footer-col }};
   {% if site.footer-img %}
   background-image: url({{ site.footer-img }});
@@ -303,10 +303,10 @@ footer .theme-by {
     padding: 10px 0;
   }
   footer .footer-links {
-    font-size: 12px;
+    font-size: 20px;
   }
   footer .copyright {
-    font-size: 12px;
+    font-size: 20px;
   }
 }
 
@@ -775,4 +775,16 @@ td.gutter {
   color: #808080;
   font-style: italic;
   font-size: 16px;
+}
+.jumbotron.jumbotron-correct {
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  background-color: #eee;
+  border: 5px;
+  border-color: #000000;
+}
+.jumbotron.jumbotron-correct p {
+  margin: 0;
 }
