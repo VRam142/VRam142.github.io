@@ -795,9 +795,9 @@ td.gutter {
   font-family:'Helvetica', sans-serif;
   font-size: 20px;
   text-align: center;
-  padding-left: 5px;
-  padding-right: 5px;
-  padding-bottom: 10px;
-  padding-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  margin-top: 10px;
   background-color: #eee;
 }
