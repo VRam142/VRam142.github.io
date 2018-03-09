@@ -791,7 +791,7 @@ td.gutter {
   outline-color: #000000;*/
 }
 .jumbotron.jumbotron-correct p {
-  border: 1px solid #ddd;
+  /*border: 1px solid #ddd;*/
   font-family:'Helvetica', sans-serif;
   font-size: 20px;
   text-align: center;
