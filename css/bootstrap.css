@@ -4868,7 +4868,7 @@ a.badge:focus {
   .jumbotron {
     padding: 0;
     border: 5px;
-    border-color: #000;
+    border-color: #000000;
   }
   .container .jumbotron,
   .container-fluid .jumbotron {
