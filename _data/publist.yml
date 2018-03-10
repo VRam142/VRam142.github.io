@@ -1,9 +1,11 @@
-- title: Massively multiplex something
-  image: dummy.png
+- title: Massively multiplex single-cell Hi0C
+  image: /img/hic_figure.jpg
   description:
-    Insert description here.
+    In this paper, we presented single-cell combinatorial indexed Hi-C (sci-Hi-C), a
+    high-throughput technique for studying chromosomal conformation in over 10,000 single
+    mouse and human cells.
   authors:
-    Author1, Author2, Author3
+    V Ramani, 
   link:
     url: https://scholar.google.com/citations?user=BjwGIbcAAAAJ&hl=en
     display: Journal of Published Results
