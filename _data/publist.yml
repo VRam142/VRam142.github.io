@@ -1,4 +1,4 @@
-- title: Massively multiplex single-cell Hi-C
+- title: "Massively multiplex single-cell Hi-C"
   image: /img/hic_figure.jpg
   description:
     In this paper, we presented single-cell combinatorial indexed Hi-C (sci-Hi-C), a
@@ -13,7 +13,7 @@
     display: Journal of Published Results
   highlight: 1
 
-- title: High-throughput determination of RNA structure by proximity ligation
+- title: "High-throughput determination of RNA structure by proximity ligation"
   image: /img/rpl_figure.jpg
   description:
     In this paper, we presented RNA Proximity Ligation (RPL), a high-throughput sequencing method
