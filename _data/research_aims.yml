@@ -1,20 +1,19 @@
-- title: "*novel molecular technologies to dissect gene regulatory mechanisms*"
+- title: "*novel molecular technologies to study gene regulatory mechanisms*"
   image: /img/aim1.png
   altimage: /img/aim1.png
-  description: 'We invent high-throughput molecular tools to study how biology''s central dogma is regulated. We devise novel ways to molecularly tag nucleic acids and proteins with unique genomic or proteomic identifiers,
-    which we then use to quantify biological phenomena at the level of single cells and single-molecules at high-resolution and scale. Our ultimate goal is to leverage these techniques to better understand how
-    protein-nucleic acid interactions, transcriptional dynamics, and small RNA abundances vary *in vivo* in thousands of single cells in parallel. We are also leveraging cutting-edge mass spectrometric techniques to carry out high-throughput proteomic
-    biochemistry, and extend massively parallel measurement to study gene regulation at the level of protein.
+  description: 'We invent high-throughput molecular tools to study how biology''s central dogma is regulated. We are interested in developing new ways to molecularly tag nucleic acids and proteins with unique genomic or proteomic identifiers,
+    allowing us to quantify biological phenomena (*e.g.* chromatin accessibility, chromosomal structure, RNA abundance) at the level of single cells and single molecules, at high-resolution and at scale. Our ultimate goal is to leverage these techniques to better understand how
+    protein-nucleic acid interactions, transcriptional dynamics, and translational dynamics vary across single cells , and how these characteristics ultimately encode cellular phenotype.
     '
 
-- title: "*defining the circuitry connecting cellular metabolism and chromatin structure through single-cell sequencing*"
+- title: "*investigating the reciprocal coupling of cellular metabolism and chromatin architecture through single cell sequencing*"
   image: /img/aim2.png
   altimage: /img/aim2.png
   description: 'To be written To be written To be written To be written To be written
     To be written To be written To be written To be written To be written To be written
     '
 
-- title: "*mechanisms underlying transcriptional regulation of metazoan RNA Polymerase III"
+- title: "*mechanisms underlying transcriptional regulation of metazoan RNA Polymerase III*"
 #- title: Mechanisms underlying transcriptional regulation of metazoan RNA Polymerase III
   image: /img/aim3.png
   altimage: /img/aim3.png

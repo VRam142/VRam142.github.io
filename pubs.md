@@ -23,8 +23,8 @@ excerpt: "Ramani Lab -- Publications."
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <h2>{{publi.title}}</h2>
-  <img src="{{publi.image}}" class="img-responsive" width="33%" style="float: center" />
+  <p text-align="center">{{publi.title}}</p>
+  <img src="{{publi.image}}" class="img-responsive" width="100%" style="float: center" />
   <p><em>{{publi.authors}}</em></p>
   <p><strong><a href="{{publi.link.url}}">{{publi.link.display}}</a></strong></p>
   <p class="text-danger"><strong>{{publi.news1}}</strong></p>
