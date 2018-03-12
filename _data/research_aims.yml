@@ -13,8 +13,7 @@
   description: 'Cellular and organismal functions in the contexts of development and disease
     rely on the integration of extracellular signals into gene regulatory responses across the
     central dogma of biology. We apply metabolic perturbation strategies to established cell culture
-    systems, and use a diverse array of genomic techniques, including high-throughput single-cell sequencing techniques (*e.g.* sci-RNA-seq, sci-ATAC-seq) and high-throughput
-    chromatin immunoprecipitation (ChIP-seq) to characterize the molecular consequences of these perturbations.
+    systems, and use a diverse array of genomic techniques, including high-throughput single-cell sequencing techniques (*e.g.* sci-RNA-seq, sci-ATAC-seq) and high-throughput protein-DNA mapping techniques (*e.g.* ChIP-seq, CUT&RUN) to characterize the molecular consequences of these perturbations.
 
 
     We are particularly interested in the role of the extended MYC network of transcription factors
