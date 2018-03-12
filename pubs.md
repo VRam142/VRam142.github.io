@@ -52,4 +52,4 @@ excerpt: "Ramani Lab -- Publications."
 
 ## *full list*
 
-{% include pubs.html %}
+{% include bib.html %}
