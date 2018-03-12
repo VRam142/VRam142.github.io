@@ -1,41 +1,23 @@
-#- title: "*Dissecting gene regulatory mechanisms through molecular barcoding*"
-- title: Project 1
-  image: /img/hello_world.jpeg
-  altimage: /img/hello_world.jpeg
-# orcid: "orcid.org/0000-0003-3345-5960"
-  # description: 'We develop high-throughput tools to study how biology''s central dogma is regulated. Many of the methods we develop and employ
-  #   employ molecular biology to tag nucleic acids and proteins with unique genomic or proteomic identifiers, which we then use to quantify biological phenomena at the level of single
-  #   cells and single-molecules at high-resolution and scale. To this end, we are employing strategies like single-cell combinatorial indexing ("sci" sequencing) to label DNA and RNA, to measure
-  #   protein-nucleic acid interactions, transcriptional dynamics, and small RNA abundances *in vivo* in thousands of single cells in parallel. We are also leveraging cutting-edge mass spectrometric techniques to carry out high-throughput proteomic
-  #   biochemistry, and extend massively parallel measurement to study gene regulation at the level of protein.
-  #   '
-  description: 'To be written To be written To be written To be written To be written
-    To be written To be written To be written To be written To be written To be written
+- title: "*novel molecular technologies to dissect gene regulatory mechanisms*"
+  image: /img/aim1.png
+  altimage: /img/aim1.png
+  description: 'We invent high-throughput molecular tools to study how biology''s central dogma is regulated. We devise novel ways to molecularly tag nucleic acids and proteins with unique genomic or proteomic identifiers,
+    which we then use to quantify biological phenomena at the level of single cells and single-molecules at high-resolution and scale. Our ultimate goal is to leverage these techniques to better understand how
+    protein-nucleic acid interactions, transcriptional dynamics, and small RNA abundances vary *in vivo* in thousands of single cells in parallel. We are also leveraging cutting-edge mass spectrometric techniques to carry out high-throughput proteomic
+    biochemistry, and extend massively parallel measurement to study gene regulation at the level of protein.
     '
-#  title: Cellularization of the regulatory networks coupling cell metabolism and transcriptional regulation
-- title: Project 2
-  image: /img/hello_world.jpeg
-  altimage: /img/hello_world.jpeg
-# orcid: "orcid.org/0000-0003-3345-5960"
+
+- title: "*defining the circuitry connecting cellular metabolism and chromatin structure through single-cell sequencing*"
+  image: /img/aim2.png
+  altimage: /img/aim2.png
   description: 'To be written To be written To be written To be written To be written
     To be written To be written To be written To be written To be written To be written
     '
 
-- title: Project 3
+- title: "*mechanisms underlying transcriptional regulation of metazoan RNA Polymerase III"
 #- title: Mechanisms underlying transcriptional regulation of metazoan RNA Polymerase III
-  image: /img/hello_world.jpeg
-  altimage: /img/hello_world.jpeg
-# orcid: "orcid.org/0000-0003-3345-5960"
+  image: /img/aim3.png
+  altimage: /img/aim3.png
   description: 'To be written To be written To be written To be written To be written To be written
     To be written To be written To be written To be written To be written To be written
     '
-#
-#
-#
-#     I then moved to Seattle, where I completed my Ph.D. in Genome Sciences in Jay Shendure''s lab. In Jay''s lab, I first developed new molecular technologies to study biomolecular phenomena at scale. I developed RNA Proximity Ligation, a high-throughput method
-#     to resolve RNA structures transcriptome-wide using proximity ligation and sequencing. I then worked with Andrew Adey, Junyue Cao, Darren Cusanovich, and a bunch of other incredibly talented scientists
-#     to co-develop single-cell combinatorial indexing--a methodological strategy to molecularly tag intact cells and nuclei with DNA barcodes to make genome-wide biochemical measurements in thousands of single-cells in parallel,
-#     without ever resorting to isolating individual cells or nuclei. This indexing paradigm, termed "sci" for short, is just one of a few novel molecular approaches that will power my lab's approach to studying gene reguatory questions.
-#
-#     In the Fall of 2018, I will be starting my own group at UC San Francisco. Our overarching goal will be to continue developing novel molecular methods to study gene regulatory phenomena across the central dogma!'
-# Rotation Students
