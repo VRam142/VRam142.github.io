@@ -1,25 +1,27 @@
 - title: "Massively multiplex single-cell Hi-C"
   image: /img/hic_figure.jpg
   description:
-    In this paper, we presented single-cell combinatorial indexed Hi-C (sci-Hi-C), a
+    'In this paper, we presented single-cell combinatorial indexed Hi-C (sci-Hi-C), a
     high-throughput technique for studying chromosomal conformation in over 10,000 single
     mouse and human cells. We demonstrated that sci-Hi-C could deconvolute complex mixtures of
     cells harboring cell-type-specific karyotypic differences, and cells of the same type
     occupying different portions of the cell cycle.
+    '
   authors:
     V Ramani, Z Duan, J Shendure
   link:
     url: https://scholar.google.com/citations?user=BjwGIbcAAAAJ&hl=en
     display: Journal of Published Results
   highlight: 1
-
+  
 - title: foobarbazs
   image: /img/rpl_figure.jpg
   description:
-    In this paper, we presented RNA Proximity Ligation (RPL), a high-throughput sequencing method
+    'In this paper, we presented RNA Proximity Ligation (RPL), a high-throughput sequencing method
     to resolve intramolecular RNA secondary structure at high resolution.
+    '
   authors:
-    *V Ramani*, R Qiu, J Shendure
+    V Ramani, R Qiu, J Shendure
   link:
     url: https://scholar.google.com/citations?user=BjwGIbcAAAAJ&hl=en
     display: Journal of Published Results
