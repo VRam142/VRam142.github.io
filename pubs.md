@@ -8,6 +8,7 @@ excerpt: "Ramani Lab -- Publications."
 # **publications**
 <hr>
 You can also find me on [google scholar]((https://scholar.google.com/citations?user=BjwGIbcAAAAJ&hl=en)).
+
 <!-- ## *highlights*
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=BjwGIbcAAAAJ&hl=en))
