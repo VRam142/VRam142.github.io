@@ -27,6 +27,10 @@
 #- title: Mechanisms underlying transcriptional regulation of metazoan RNA Polymerase III
   image: /img/aim3.png
   altimage: /img/aim3.png
-  description: 'A fascinating consequence of deranging the extended MYC network is the ectopic expression of tRNA genes. We use synthetic genetic perturbation (*i.e.* CRISPR/CRISPRi/CRISPRa) in
-    cell lines to characterize the molecular consequences of perturbing tRNAs and tRNA-associated genes.
+  description: 'A fascinating consequence of deranging the extended MYC network is the ectopic expression of tRNA genes, which are not only critical to protein synthesis, but
+    may also play unexpected "moonlighting" roles in other biological processes. We use synthetic genetic perturbation (*i.e.* CRISPR/CRISPRi/CRISPRa) in
+    cell lines to characterize the molecular consequences of perturbing tRNAs and tRNA-associated genes. In parallel, we employ high-resolution protein-DNA interaction mapping
+    approaches to study redistribution of RNA polymerase III, its basal transcriptional machinery, and transcription factors in response to cellular perturbations. In this way,
+    we hope to simultaneously decode the *cis* regulatory features responsible for regulating tRNA transcription, and the systems-level consequences of dysregulated tRNA transcription
+    in cells. 
     '
