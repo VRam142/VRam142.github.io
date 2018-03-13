@@ -1,9 +1,9 @@
 - title: "*novel molecular technologies to study gene regulation*"
   image: /img/aim1.png
   altimage: /img/aim1.png
-  description: 'We invent high-throughput molecular tools to study how biology''s central dogma is regulated. We are particularly interested in devising ways to molecularly tag nucleic acids and proteins with unique genomic or proteomic identifiers,
-    allowing us to quantify biological phenomena (*e.g.* chromatin accessibility, chromosomal structure, RNA abundance, protein synthesis rates) at the level of single cells and single molecules, using high-throughput sequencing and cutting-edge mass spectrometric techniques.
-    Our ultimate goal is to combine these techniques with synthetic, metabolic, and genetic cellular perturbations, to better understand how
+  description: 'We invent high-throughput molecular tools to study how biology''s central dogma is regulated. We are particularly interested in devising ways to molecularly tag nucleic acids and proteins with unique genomic or proteomic identifiers. We then use these "barcodes"
+    to quantify biological phenomena (*e.g.* chromatin accessibility, chromosomal structure, RNA abundance, protein synthesis rates) at the level of single cells and single molecules, using high-throughput sequencing and cutting-edge mass spectrometric techniques.
+    Our ultimate goal is to combine these techniques with synthetic, metabolic, and genetic cellular perturbations, to understand how
     protein-nucleic acid interactions, transcriptional dynamics, and translational dynamics vary in the face of diverse cellular inputs, and how these phenomena ultimately encode cellular phenotype.
     '
 
@@ -13,13 +13,16 @@
   description: 'Cellular and organismal functions in the contexts of development and disease
     rely on the integration of extracellular signals into gene regulatory responses across the
     central dogma of biology. We apply metabolic perturbation strategies to established cell culture
-    systems, and use a diverse array of genomic techniques, including high-throughput single-cell sequencing techniques (*e.g.* sci-RNA-seq, sci-ATAC-seq) and high-throughput protein-DNA mapping techniques (*e.g.* ChIP-seq, CUT&RUN) to characterize the molecular consequences of these perturbations.
+    systems, and then model these perturbations using a diverse array of genomic techniques.
+    These methods include high-throughput single-cell sequencing techniques (*e.g.* sci-RNA-seq, sci-ATAC-seq),
+    which allow us to characterize cellular state changes, and high-throughput protein-DNA interaction mapping techniques (*e.g.* ChIP-seq, CUT&RUN),
+    which provide us with base-pair resolution maps of nucleosome-DNA and transcription factor-DNA interactions.
 
 
     We are particularly interested in the role of the extended MYC network of transcription factors
-    as transcriptional "integrators" of cellular metabolism, and collaborate with [Bob Eisenman''s lab](https://research.fhcrc.org/eisenman/en.html) at
-    the Fred Hutchinson Cancer Research Center to apply our tools to diverse *in vitro* and *in vivo* models
-    for MYC network dysregulation. Ultimately, we aim to define the processes by which cells normally relate metabolic state to specific
+    as transcriptional "integrators" of cellular metabolism. To this end, we collaborate with [Bob Eisenman''s lab](https://research.fhcrc.org/eisenman/en.html) at
+    the Fred Hutchinson Cancer Research Center, to apply our tools to diverse *in vitro* and *in vivo* models
+    of MYC network dysregulation. Ultimately, we aim to define the processes by which cells normally relate metabolic state to specific
     transcriptional programs, and better understand how these programs go awry in diseases like cancer.
     '
 
