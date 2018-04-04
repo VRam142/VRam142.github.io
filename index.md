@@ -1,12 +1,19 @@
 ---
-layout: page
+layout: gridlay
 title: The Ramani Lab
 subtitle: Department of Biochemistry & Biophysics, UCSF
 use-site-title: false
 ---
+<div class="col-sm-12">
+    <img src="img/banner.png" alt="ramani lab @ ucsf"><br>
+</div>
+
+# **department of biochemistry & biophysics**
 
 <div class="jumbotron jumbotron-correct">
     <p>
+      We are looking for graduate students and postdocs to start in late 2018/early 2019! Interested UCSF graduate students / postdocs should <a href="vijay.ramani@ucsf.edu">contact me</a> to talk about project ideas.
+      <br>
       The <b>Ramani Lab</b> at <b>UC San Francisco</b> develops
       high-throughput molecular techniques to study gene regulation. We are
       funded through the <a href="https://fellows.ucsf.edu/">UCSF Sandler Fellows</a> program, and are located in <b>Genentech Hall</b>
