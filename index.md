@@ -7,14 +7,13 @@ use-site-title: false
 <div class="col-sm-12">
     <img src="img/banner.png" alt="ramani lab @ ucsf"><br>
 </div>
-
+<br>
 <div class="jumbotron jumbotron-correct">
     <p>
-
       The <b>Ramani Lab</b> at <b>UC San Francisco</b> develops
       high-throughput molecular techniques to study gene regulation. We are
       funded through the <a href="https://fellows.ucsf.edu/">UCSF Sandler Fellows</a> program, and are located in <b>Genentech Hall</b>
-      on UCSF's <b>Mission Bay</b> campus. We are looking for graduate students and postdocs to rotate / start in late 2018/early 2019! UCSF graduate students and postdocs should <a href="mailto:vijay.ramani@ucsf.edu">contact me</a> to talk about project ideas.
+      on UCSF's <b>Mission Bay</b> campus. We are looking for graduate students and postdocs to rotate / start in late 2018 / early 2019! UCSF graduate students and postdocs should <a href="mailto:vijay.ramani@ucsf.edu">contact me</a> to talk about project ideas.
     </p>
 </div>
 
