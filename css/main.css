@@ -89,10 +89,6 @@ img {
   max-width: 100%;
 }
 
-img.resize {
-    width:80%; /* you can use % */
-    height: auto;
-}
 
 .disqus-comments {
   margin-top: 30px;
