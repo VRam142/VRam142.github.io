@@ -1,4 +1,4 @@
-- name: Vijay Ramani
+- name: Vijay Ramani, PhD
   image: /img/Untitled.png
   altimage: /img/Untitled.png
   position: Principal Investigator
@@ -21,6 +21,27 @@
 
     In the Fall of 2018, I will be starting my own group at UC San Francisco. Our overarching goal is to continue developing novel molecular methods to study gene regulatory phenomena across the central dogma.
     '
+
+- name: Aidan Keith, BS
+  image: /img/IMG_7222.jpg
+  altimage: /img/IMG_7222.jpg
+  position: Junior Research Specialist
+  email: aidank2 (at) uw.edu
+#  scholar:
+  description: "I recently finished my B.S. degree in Biology at the University of Washington. In February 2017 I began working as an undergraduate research assistant in Jay Shendure’s lab in the UW’s department of Genome Sciences. In Jay’s lab I worked closely with Jason Klein to research regulatory DNA in the context of evolution and disease. To do so, we used “Massively Parallel Reporter Assays” (MPRAs), a variation of traditional reporter assays that can test thousands of sequences for regulatory activity en masse by using Next Generation Sequencing (NGS) as a readout. Notably, we applied MPRAs to study the evolution of enhancers in primates, as well as to functionally characterize and prioritize GWAS SNPs that may be involved in osteoarthritis pathogenesis. Since MPRAs often rely on testing short array-synthesized sequences, I also helped develop a protocol to assemble thousands of array oligos into longer sequences that are closer to the size of most predicted enhancers.
+
+
+  I am very excited to be joining the Ramani lab, where I will get to continue studying gene regulation by implementing and developing new ~omics techniques.
+  "
+
+- name: Bertie Woof, PhD
+  image: /img/bertie.png
+  altimage: /img/bertie.png
+  position: Lab Mascot / Resident Treat Eater
+  email: aidank2 (at) uw.edu
+#  scholar:
+  description: "*woof* *woof* *woof*! =)"
+
 - name: We are hiring!
   image: /img/hello_world.jpeg
   altimage: /img/hello_world.jpeg
