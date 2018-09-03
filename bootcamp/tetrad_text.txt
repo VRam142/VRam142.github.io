@@ -1,0 +1,8 @@
+Jane	88
+Paul	45
+Victor	33
+Nabiha	99
+Jose	85
+Kelly	50
+Raj	10
+Chloe	100
