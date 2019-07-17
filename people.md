@@ -33,8 +33,22 @@ subtitle: Ramani Lab Members
     </div>
 </div>
 {% endfor %}
-<div>
+<hr>
 <strong>Rotation Students</strong>: <br>
-Derek Bogdanoff (Winter Quarter, 2018-2019): Nowakowski Lab <br>
-Wei Gordon (Spring Quarter, 2018-2019): Ahituv Lab <br>
-</div>
+<table class="w3-table">
+<tr>
+  <th>Name</th>
+  <th>Graduate Program / Quarter / Year</th>
+  <th>Thesis Lab</th>
+</tr>
+<tr>
+  <td>Derek Bogdanoff</td>
+  <td>Tetrad / Winter / 18-19</td>
+  <td>Nowakowski Lab</td>
+</tr>
+<tr>
+  <td>Wei Gordon</td>
+  <td>Tetrad / Spring / 18-19</td>
+  <td>Ahituv Lab</td>
+</tr>
+</table> 
