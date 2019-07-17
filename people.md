@@ -33,3 +33,8 @@ subtitle: Ramani Lab Members
     </div>
 </div>
 {% endfor %}
+<div>
+<strong>Rotation Students</strong>: <br>
+Derek Bogdanoff (Winter Quarter, 2018-2019): Nowakowski Lab <br>
+Wei Gordon (Spring Quarter, 2018-2019): Ahituv Lab <br>
+</div>
