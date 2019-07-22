@@ -28,11 +28,28 @@
   position: Junior Research Specialist
   email: aidan.keith (at) ucsf.edu
 #  scholar:
-  description: "I recently finished my B.S. degree in Biology at the University of Washington. In February 2017 I began working as an undergraduate research assistant in Jay Shendure’s lab in the UW’s department of Genome Sciences. In Jay’s lab I worked closely with Jason Klein to research regulatory DNA in the context of evolution and disease. To do so, we used “Massively Parallel Reporter Assays” (MPRAs), a variation of traditional reporter assays that can test thousands of sequences for regulatory activity en masse by using Next Generation Sequencing (NGS) as a readout. Notably, we applied MPRAs to study the evolution of enhancers in primates, as well as to functionally characterize and prioritize GWAS SNPs that may be involved in osteoarthritis pathogenesis. Since MPRAs often rely on testing short array-synthesized sequences, I also helped develop a protocol to assemble thousands of array oligos into longer sequences that are closer to the size of most predicted enhancers.
+  description: 'I recently finished my B.S. degree in Biology at the University of Washington. In February 2017 I began working as an undergraduate research assistant in Jay Shendure''s lab in the UW department of Genome Sciences. In Jay''s lab I worked closely with Jason Klein to research regulatory DNA in the context of evolution and disease. To do so, we used “Massively Parallel Reporter Assays” (MPRAs), a variation of traditional reporter assays that can test thousands of sequences for regulatory activity en masse by using Next Generation Sequencing (NGS) as a readout. Notably, we applied MPRAs to study the evolution of enhancers in primates, as well as to functionally characterize and prioritize GWAS SNPs that may be involved in osteoarthritis pathogenesis. Since MPRAs often rely on testing short array-synthesized sequences, I also helped develop a protocol to assemble thousands of array oligos into longer sequences that are closer to the size of most predicted enhancers.
 
 
-  I am very excited to be joining the Ramani lab, where I will get to continue studying gene regulation by implementing and developing new ~omics techniques.
-  "
+  I am very excited to be joining the Ramani lab, where I will get to continue studying gene regulation by implementing and developing new -omics techniques.
+  '
+
+- name: Nour Abdulhay, BA
+  image: /img/nabd.png
+  altimage: /img/nabd.png
+  position: Graduate Student (BMS)
+  email: nour.abdulhay (at) ucsf.edu
+#  scholar:
+  description: 'I graduated from Wellesley College in 2014 where I studied Biology. Afterwards, I worked for several years in Vijay Sankaran''s lab at Boston Children''s Hospital / The Broad Institute, which studies hematopoiesis and how genetic variation alters blood cell production. I did research to understand mechanisms that lead to rare blood disorders, specifically using human pluripotent stem cells for disease modeling and investigated aberrant splicing mutations from patients with hematological disorders. In my main project, I explored how noncoding mutations disrupt the spliceosome and may lead to dyserythropoietic anemia. I am currently a 2nd-year PhD graduate student in the Biomedical Sciences program at UCSF. I rotated in the Ramani lab in Spring 2019, where I worked on methods for generating single-molecule and genome-wide maps of epigenetic modification. I look forward to starting my thesis research here, where I will develop high-throughput technologies to investigate how applied metabolic and genetic perturbations affect protein-DNA interactions and overall cellular-state changes.
+
+- name: Bertie Woof, PhD
+  image: /img/bertie.png
+  altimage: /img/bertie.png
+  position: Lab Mascot / Resident Treat Eater
+  email: just give me treats plz.
+#  scholar:
+  description: '*woof* *woof* *woof*! =)'
+
 - name: Siva Kasinathan, MD, PhD
   image: /img/skas.jpg
   altimage: /img/skas.jpg
@@ -46,14 +63,6 @@
 
   In 2019, I joined the Pediatrics Residency Program at Stanford University / Lucile Packard Children’s Hospital. As a physician and basic scientist, I hope to work with the Ramani lab to dissect gene dysregulation in human disease through novel molecular technologies.
   '
-
-- name: Bertie Woof, PhD
-  image: /img/bertie.png
-  altimage: /img/bertie.png
-  position: Lab Mascot / Resident Treat Eater
-  email: just give me treats plz.
-#  scholar:
-  description: "*woof* *woof* *woof*! =)"
 
 - name: We are hiring!
   image: /img/hello_world.jpeg
