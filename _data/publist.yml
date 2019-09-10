@@ -1,28 +1,42 @@
-- title: "Massively multiplex single-cell Hi-C"
-  image: /img/hic_figure.jpg
+- title: "High Sensitivity Profiling of Chromatin Structure by MNase-SSP"
+  image: /img/ssp.png
   description:
-    'In this paper, we presented single-cell combinatorial indexed Hi-C (sci-Hi-C), a
-    high-throughput technique for studying chromosomal conformation in over 10,000 single
-    mouse and human cells. We demonstrated that sci-Hi-C could deconvolute complex mixtures of
-    cells harboring cell-type-specific karyotypic differences, and cells of the same type
-    occupying different portions of the cell cycle.
+    'Here, we presented MNase-seq by single-strand profiling (MNase-SSP), a generalizable library preparation
+    protocol to sensitively profile the fragments resulting from nucleolytic digestion of chromatin. We demonstrate
+    that MNase-SSP captures different classes of minimally protected CTCF/Ctcf fragments possibly indicative of differential
+    finger usage, and reveals subnucleosomal structure at murine embryonic stem cell promoters.
     '
   authors:
-    V Ramani, Z Duan, J Shendure
+    Ramani V#, Qiu R, Shendure J#
   link:
-    url: https://scholar.google.com/citations?user=BjwGIbcAAAAJ&hl=en
-    display: Journal of Published Results
+    url: /_pubpdfs/ssp.pdf
+    display: Cell Reports
   highlight: 1
-  
-- title: foobarbazs
+
+- title: "Joint profiling of chromatin accessibility and gene expression in thousands of single cells"
+  image: /img/scicar.jpg
+  description:
+    'Here we presented single-cell combinatorial indexing for measuring chromatin accessibility & RNA expression (sci-CAR), a high-throughput
+    single-cell sequencing method for simultaneously profiling chromatin accessibility and mRNA expression in thousands of single cells in a single
+    experiment. We applied sci-CAR to A549 cells drugged with the glucocorticoid receptor agonist dexamethasone, as well as primary murine kidneys.
+    '
+  authors:
+    Cao J, Cusanovich DA*, Ramani V*, Aghamirzaie D, Pliner HA, Hill AJ, Daza RM, McFaline-Figueroa JL, Packer JS, Christiansen L, Steemers FJ, Adey AC, Trapnell C#, Shendure J#
+  link:
+    url: /_pubpdfs/scicar.pdf
+    display: Science
+  highlight: 1
+
+- title: "Joint profiling of chromatin accessibility and gene expression in thousands of single cells"
   image: /img/rpl_figure.jpg
   description:
-    'In this paper, we presented RNA Proximity Ligation (RPL), a high-throughput sequencing method
-    to resolve intramolecular RNA secondary structure at high resolution.
+    'Here we presented single-cell combinatorial indexing for measuring chromatin accessibility & RNA expression (sci-CAR), a high-throughput
+    single-cell sequencing method for simultaneously profiling chromatin accessibility and mRNA expression in thousands of single cells in a single
+    experiment.
     '
   authors:
-    V Ramani, R Qiu, J Shendure
+    Cao J, Cusanovich DA*, Ramani V*, Aghamirzaie D, Pliner HA, Hill AJ, Daza RM, McFaline-Figueroa JL, Packer JS, Christiansen L, Steemers FJ, Adey AC, Trapnell C#, Shendure J#
   link:
-    url: https://scholar.google.com/citations?user=BjwGIbcAAAAJ&hl=en
-    display: Journal of Published Results
-  highlight: 0
+    url: /_pubpdfs/scicar.pdf
+    display: Science
+  highlight: 1
