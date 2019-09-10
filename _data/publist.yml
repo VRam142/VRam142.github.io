@@ -9,7 +9,7 @@
   authors:
     Ramani V#, Qiu R, Shendure J#
   link:
-    url: /_pubpdfs/ssp.pdf
+    url: /pubpdfs/ssp.pdf
     display: Cell Reports
   highlight: 1
 
@@ -23,20 +23,6 @@
   authors:
     Cao J, Cusanovich DA*, Ramani V*, Aghamirzaie D, Pliner HA, Hill AJ, Daza RM, McFaline-Figueroa JL, Packer JS, Christiansen L, Steemers FJ, Adey AC, Trapnell C#, Shendure J#
   link:
-    url: /_pubpdfs/scicar.pdf
-    display: Science
-  highlight: 1
-
-- title: "Joint profiling of chromatin accessibility and gene expression in thousands of single cells"
-  image: /img/rpl_figure.jpg
-  description:
-    'Here we presented single-cell combinatorial indexing for measuring chromatin accessibility & RNA expression (sci-CAR), a high-throughput
-    single-cell sequencing method for simultaneously profiling chromatin accessibility and mRNA expression in thousands of single cells in a single
-    experiment.
-    '
-  authors:
-    Cao J, Cusanovich DA*, Ramani V*, Aghamirzaie D, Pliner HA, Hill AJ, Daza RM, McFaline-Figueroa JL, Packer JS, Christiansen L, Steemers FJ, Adey AC, Trapnell C#, Shendure J#
-  link:
-    url: /_pubpdfs/scicar.pdf
+    url: /pubpdfs/scicar.pdf
     display: Science
   highlight: 1
