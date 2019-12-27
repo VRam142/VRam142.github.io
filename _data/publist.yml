@@ -1,28 +1,13 @@
-- title: "High Sensitivity Profiling of Chromatin Structure by MNase-SSP"
-  image: /img/ssp_fig.png
-  description:
-    'Here, we presented MNase-seq by single-strand profiling (MNase-SSP), a generalizable library preparation
-    protocol to sensitively profile the fragments resulting from nucleolytic digestion of chromatin. We demonstrate
-    that MNase-SSP captures different classes of minimally protected CTCF/Ctcf fragments possibly indicative of differential
-    finger usage, and reveals subnucleosomal structure at murine embryonic stem cell promoters.
-    '
-  authors:
-    Ramani V#, Qiu R, Shendure J#
-  link:
-    url: /pubpdfs/ssp.pdf
-    display: Cell Reports
-  highlight: 1
+- authors: **Srivatsan SR**, **McFaline-Figueroa JL**, **Ramani V**, Saunders L, Cao J, Packer, J, Pliner HA, Jackson DL, Daza RM, Christiansen L, Zhang F, Steemers F, Shendure J, Trapnell C.
+  title: Massively multiplex chemical transcriptomics at single-cell resolution
+  journal: Science
+  date: 2019 Dec 5
+  pmid: 31806696
+  pdf: /pubpdfs/sciplex.pdf
 
-- title: "Joint profiling of chromatin accessibility and gene expression in thousands of single cells"
-  image: /img/scicar.png
-  description:
-    'Here we presented single-cell combinatorial indexing for measuring chromatin accessibility & RNA expression (sci-CAR), a high-throughput
-    single-cell sequencing method for simultaneously profiling chromatin accessibility and mRNA expression in thousands of single cells in a single
-    experiment. We applied sci-CAR to A549 cells drugged with the glucocorticoid receptor agonist dexamethasone, as well as primary murine kidneys.
-    '
-  authors:
-    Cao J, Cusanovich DA*, Ramani V*, Aghamirzaie D, Pliner HA, Hill AJ, Daza RM, McFaline-Figueroa JL, Packer JS, Christiansen L, Steemers FJ, Adey AC, Trapnell C#, Shendure J#
-  link:
-    url: /pubpdfs/scicar.pdf
-    display: Science
-  highlight: 1
+- authors: **Ramani V^#^**, Qiu R, Shendure J^#^
+  title: Massively multiplex chemical transcriptomics at single-cell resolution
+  journal: Cell Reports
+  date: 2019 Feb 26
+  pmid: 30811994
+  pdf: /pubpdfs/ssp.pdf
