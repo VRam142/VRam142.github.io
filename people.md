@@ -51,4 +51,14 @@ subtitle: Ramani Lab Members
   <td>Tetrad / Spring / 18-19</td>
   <td>Ahituv Lab</td>
 </tr>
-</table> 
+<tr>
+  <td>Tianna Grant</td>
+  <td>iPQB / Summer / 19-20</td>
+  <td>TBD</td>
+</tr>
+<tr>
+  <td>Laurel Estes</td>
+  <td>iPQB / Fall / 19-20</td>
+  <td>TBD</td>
+</tr>
+</table>
