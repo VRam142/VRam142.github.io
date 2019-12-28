@@ -12,9 +12,23 @@
   pmid: 30811994
   pdf: /pubpdfs/ssp.pdf
 
-- authors: "Cao J, Cusanovich DA<sup>*</sup>, Ramani V<sup>*</sup>, Aghamirzaie D, Pliner HA, Hill AJ, Daza RM, McFaline-Figueroa JL, Packer JS, Christiansen L, Steemers FJ, Adey AC, Trapnell C, Shendure J"
+- authors: "Cao J, Cusanovich DA*, Ramani V*, Aghamirzaie D, Pliner HA, Hill AJ, Daza RM, McFaline-Figueroa JL, Packer JS, Christiansen L, Steemers FJ, Adey AC, Trapnell C, Shendure J"
   title: Joint profiling of chromatin accessibility and gene expression in thousands of single cells
   journal: Science
   date: 2018 Aug 30
   pmid: 30166440
   pdf: /pubpdfs/scicar.pdf
+
+- authors: "Cao J, Packer J, Ramani V*, Cusanovich DA*, Huynh C, Daza R, Qiu X, Lee C, Furlan SN, Steemers FJ, Adey A, Waterston RH, Trapnell C, Shendure J"
+  title: Comprehensive single cell transcriptional profiling of a multicellular organism
+  journal: Science
+  date: 2017 Aug 18
+  pmid: 28818938
+  pdf: /pubpdfs/scirna.pdf
+
+- authors: "<b>Ramani V</b>, Deng X, Qiu R, Gunderson KL, Steemers FJ, Disteche CM, Noble WS, Duan Z, Shendure J"
+  title: Massively multiplex single-cell Hi-C
+  journal: Nature Methods
+  date: 2017 Mar
+  pmid: 28135255
+  pdf: /pubpdfs/scihic.pdf
