@@ -15,7 +15,7 @@ Here is a sampling of some of the papers that guide our lab's research. You can 
       <ol>
         {% for publication in site.data.publist %}
           <li>
-            {{publication.authors | markdownify}}. {{publication.title}}; <i>{{publication.journal}}</i>. {{publication.date}}; <a href='https://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}'PMID: {{publication.pmid}}</a>. <a href="{{publication.pdf}}">[pdf]</a>
+            {{publication.authors}}. {{publication.title}}; <i>{{publication.journal}}</i>. {{publication.date}}; <a href='https://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}'>PMID: {{publication.pmid}}</a>. <a href="{{publication.pdf}}">[pdf]</a>
           </li>
         {% endfor %}
       </ol>
