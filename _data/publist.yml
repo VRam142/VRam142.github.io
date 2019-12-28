@@ -1,4 +1,4 @@
-- authors: "<b>Srivatsan SR</b>, <b>McFaline-Figueroa JL</b>, <b>Ramani V</b>, Saunders L, Cao J, Packer, J, Pliner HA, Jackson DL, Daza RM, Christiansen L, Zhang F, Steemers F, Shendure J, Trapnell C"
+- authors: "<b>Srivatsan SR</b>, <b>McFaline-Figueroa JL</b>, <b>Ramani V</b>, Saunders L, Cao J, Packer J, Pliner HA, Jackson DL, Daza RM, Christiansen L, Zhang F, Steemers FJ, Shendure J, Trapnell C"
   title: Massively multiplex chemical transcriptomics at single-cell resolution
   journal: Science
   date: 2019 Dec 5
@@ -29,6 +29,20 @@
 - authors: "<b>Ramani V</b>, Deng X, Qiu R, Gunderson KL, Steemers FJ, Disteche CM, Noble WS, Duan Z, Shendure J"
   title: Massively multiplex single-cell Hi-C
   journal: Nature Methods
-  date: 2017 Mar
+  date: 2017 Jan 30
   pmid: 28135255
   pdf: /pubpdfs/scihic.pdf
+
+- authors: "<b>Ramani V</b>, Cusanovich DA, Hause RJ, Ma W, Qiu R, Deng X, Blau CA, Disteche CM, Noble WS, Shendure J, Duan Z"
+  title: Mapping three-dimensional genome architecture through in situ DNase Hi-C
+  journal: Nature Protocols
+  date: 2016 Sep 29
+  pmid: 27685100
+  pdf: /pubpdfs/dhc.pdf
+
+- authors: "<b>Ramani V</b>, Qiu R, Shendure J"
+  title: High-throughput determination of RNA structure by proximity ligation
+  journal: Nature Biotechnology
+  date: 2015 Aug 3
+  pmid: 26237516
+  pdf: /pubpdfs/rpl.pdf
