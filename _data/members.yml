@@ -43,6 +43,25 @@
 #  scholar:
   description: "I graduated from Wellesley College in 2014 where I studied Biology. Afterwards, I worked for several years in Vijay Sankaran's lab at Boston Children's Hospital / The Broad Institute, which studies hematopoiesis and how genetic variation alters blood cell production. I did research to understand mechanisms that lead to rare blood disorders, specifically using human pluripotent stem cells for disease modeling and investigated aberrant splicing mutations from patients with hematological disorders. In my main project, I explored how noncoding mutations disrupt the spliceosome and may lead to dyserythropoietic anemia. I am currently a 2nd-year PhD graduate student in the Biomedical Sciences program at UCSF. I rotated in the Ramani lab in Spring 2019, where I worked on methods for generating single-molecule and genome-wide maps of epigenetic modification. I look forward to starting my thesis research here, where I will develop high-throughput technologies to investigate how applied metabolic and genetic perturbations affect protein-DNA interactions and overall cellular-state changes."
 
+- name: Colin McNally, PhD
+  image: /img/cmcn.jpg
+  altimage: /img/cmcn.jpg
+  position: Postdoctoral Fellow
+  email: colin.p.mcnally (at) gmail.com
+  twitter: "cpmcnally"
+#  scholar:
+  description: "I graduated with my A.B. in Molecular Biology from Princeton in 2013. For my senior thesis I worked in the lab of Leonid Kruglyak and studied the genetic architecture of heat and salt shock survival in yeast. I then earned my Ph.D. in the department of Genome Sciences at the University of Washington, where I worked with Elhanan Borenstein. In my graduate research I studied bacterial coevolution using metabolic models of microbial growth. In my first project I simulated two species evolving together over a long time scale and in tight isolation, analogous to the evolution of insect symbionts. I found frequent emergence of cooperation and investigated the metabolic phenotypes and genetic causes. In my second project I simulated the growth of many E. coli reaction knockouts in the context of various mixed communities of other species. I used this data to study how the adaptive landscape of a focal species changes as a function of the ecological context.
+
+  I am excited to be joining the Ramani Lab and applying my skills to study gene regulation datasets generated from cutting-edge methodologies.."
+
+- name: Bertie Woof, PhD
+  image: /img/bertie.png
+  altimage: /img/bertie.png
+  position: Lab Mascot / Resident Treat Eater
+  email: just give me treats plz.
+#  scholar:
+  description: "*woof* *woof* *woof*! =)"
+
 - name: Bertie Woof, PhD
   image: /img/bertie.png
   altimage: /img/bertie.png
