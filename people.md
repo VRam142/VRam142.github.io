@@ -57,8 +57,8 @@ subtitle: Ramani Lab Members
   <td>TBD</td>
 </tr>
 <tr>
-  <td>Laurel Estes</td>
-  <td>iPQB / Fall / 19-20</td>
+  <td>Scott Nanda</td>
+  <td>BMI / Winter / 19-20</td>
   <td>TBD</td>
 </tr>
 </table>
