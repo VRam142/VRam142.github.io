@@ -54,11 +54,11 @@ subtitle: Ramani Lab Members
 <tr>
   <td>Tianna Grant</td>
   <td>iPQB / Summer / 19-20</td>
-  <td>TBD</td>
+  <td>Ye Lab</td>
 </tr>
 <tr>
-  <td>Scott Nanda</td>
-  <td>BMI / Winter / 19-20</td>
+  <td>Jasmine Sams</td>
+  <td>Tetrad / Spring / 19-20</td>
   <td>TBD</td>
 </tr>
 </table>
