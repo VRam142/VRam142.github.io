@@ -57,7 +57,7 @@ subtitle: Ramani Lab Members
   <td>Ye Lab</td>
 </tr>
 <tr>
-  <td>Jasmine Sams</td>
+  <td>Jasmine Sims</td>
   <td>Tetrad / Spring / 19-20</td>
   <td>TBD</td>
 </tr>
