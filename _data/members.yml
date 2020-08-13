@@ -88,6 +88,14 @@
 
   I'm currently a 2nd year student in the Biological and Medical Informatics program, jointly advised between the Ramani Lab and the Goodarzi Lab. As I begin my thesis research, I'm excited to leverage both experimental and computational approaches towards mapping the genomic and epigenomic drivers of cancer metastasis."
 
+- name: Mythili Kethavarapu
+  image: /img/mket.jpg
+  altimage: /img/mket.jpg
+  position: Undergraduate Volunteer
+#  email: scott.nanda (at) ucsf.edu
+#  scholar:
+  description: "I recently finished my first year as an undergraduate student at UC Santa Barbara. I am currently pursuing a B.S. in Biochemistry and Molecular Biology with a minor in Statistical Science. In the future, I hope to go to grad school to study Bioinformatics and Computational Biology. I am very excited to be working with the Ramani Lab this summer as an introduction to research in the field of systems biology. In my time at the lab I will be focusing on their research about the regulation of tRNA genes, while gaining an exposure to machine learning and DNA sequencing."
+
 - name: Bertie Woof, PhD
   image: /img/bertie.png
   altimage: /img/bertie.png
