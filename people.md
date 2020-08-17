@@ -68,7 +68,7 @@ subtitle: Ramani Lab Members
 <tr>
   <th>Name</th>
   <th>Previous Position</th>
-  <th>Last known position</th>
+  <th>Currently</th>
 </tr>
 <tr>
   <td>Aidan Keith</td>
