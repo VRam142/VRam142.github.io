@@ -62,3 +62,18 @@ subtitle: Ramani Lab Members
   <td>TBD</td>
 </tr>
 </table>
+<hr>
+<strong>Lab Alumni</strong>: <br>
+<table class="w3-table">
+<tr>
+  <th>Name</th>
+  <th>Previous Position</th>
+  <th>Last known position</th>
+</tr>
+<tr>
+  <td>Aidan Keith</td>
+  <td>Research Specialist</td>
+  <td>PhD Program @ UW Genome Sciences</td>
+</tr>
+</tr>
+</table>
