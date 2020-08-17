@@ -75,5 +75,4 @@ subtitle: Ramani Lab Members
   <td>Research Specialist</td>
   <td>PhD Program @ UW Genome Sciences</td>
 </tr>
-</tr>
 </table>
