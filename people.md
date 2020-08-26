@@ -67,12 +67,12 @@ subtitle: Ramani Lab Members
 <table class="w3-table">
 <tr>
   <th>Name</th>
-  <th>Previous Position</th>
+  <th>Previous Position / Years</th>
   <th>Currently</th>
 </tr>
 <tr>
   <td>Aidan Keith</td>
-  <td>Research Specialist</td>
+  <td>Research Specialist / 2018 - 2020</td>
   <td>PhD Program @ UW Genome Sciences</td>
 </tr>
 </table>
