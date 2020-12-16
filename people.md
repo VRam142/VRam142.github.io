@@ -59,6 +59,11 @@ subtitle: Ramani Lab Members
 <tr>
   <td>Jasmine Sims</td>
   <td>Tetrad / Spring / 19-20</td>
+  <td>Ahituv Lab</td>
+</tr>
+<tr>
+  <td>Camille Moore</td>
+  <td>Tetrad / Fall / 20-21</td>
   <td>TBD</td>
 </tr>
 </table>
