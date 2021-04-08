@@ -66,6 +66,16 @@ subtitle: Ramani Lab Members
   <td>Tetrad / Fall / 20-21</td>
   <td>TBD</td>
 </tr>
+<tr>
+  <td>Zach Cogan</td>
+  <td>Tetrad / Winter / 20-21</td>
+  <td>TBD</td>
+</tr>
+<tr>
+  <td>Alex Hong</td>
+  <td>Tetrad / Winter / 20-21</td>
+  <td>TBD</td>
+</tr>
 </table>
 <hr>
 <strong>Lab Alumni</strong>: <br>
