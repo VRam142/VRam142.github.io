@@ -90,4 +90,9 @@ subtitle: Ramani Lab Members
   <td>Research Specialist / 2018 - 2020</td>
   <td>PhD Program @ UW Genome Sciences</td>
 </tr>
+<tr>
+  <td>Yuan Daniel Xu</td>
+  <td>Research Specialist / 2020 - 2021</td>
+  <td>PhD Program @ UC Santa Cruz (BME)</td>
+</tr>
 </table>
