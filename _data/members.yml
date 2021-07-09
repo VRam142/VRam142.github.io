@@ -105,6 +105,7 @@
   description: "I graduated from UC Berkeley in 2020 with a B.A in Molecular and Cell Biology and a minor in English. At Berkeley, I studied chromatin remodelers via Cryo-EM under Dr. Eva Nogales. My thesis project focused on the architecture of RSC and its mechanism of nucleosome remodeling.
   As a 2018 Amgen scholar, I investigated the mammalian heat stress response at Kyoto University with Dr. Fuyuki Ishikawa.
 
+
   I’m currently a first year student in the Tetrad program, jointly advised by the Ramani and Narlikar labs. I look forward to developing minimal molecular systems in order to study chromatin structure and genome organization."
 
 - name: Megan Ostrowski, BA
@@ -113,15 +114,19 @@
   position: Junior Research Specialist
   email: megan.ostrowski (at) ucsf.edu
 #  scholar:
-  description: "I graduated in 2020 from Princeton University with a Bachelor’s degree in Molecular Biology. While at Princeton, I worked in Bonnie Bassler’s lab studying the quorum sensing response of V. cholerae. Part of my work in the Bassler lab concentrated on increasing the experimental space in which we could study quorum sensing behaviors and the other part of my work focused on optimizing fluorescent fusions to work towards the rationale design of fluorescently tagged proteins. In the future, I hope to continue on to grad school with a focus on computational approaches to biomedical science. I am excited to be a part of the Ramani lab and increase my skills in computation and biological research while applying novel approaches to study gene regulation in response to various perturbations."
+  description: "I graduated in 2020 from Princeton University with a Bachelor’s degree in Molecular Biology. While at Princeton, I worked in Bonnie Bassler’s lab studying the quorum sensing response of V. cholerae. Part of my work in the Bassler lab concentrated on increasing the experimental space in which we could study quorum sensing behaviors and the other part of my work focused on optimizing fluorescent fusions to work towards the rationale design of fluorescently tagged proteins.
 
-- name: Ke (Coco) Wu, BA
+
+  In the future, I hope to continue on to grad school with a focus on computational approaches to biomedical science. I am excited to be a part of the Ramani lab and increase my skills in computation and biological research while applying novel approaches to study gene regulation in response to various perturbations."
+
+- name: Ke (Coco) Wu, BS
   image: /img/kewu.JPG
   altimage: /img/kewu.JPG
   position: Junior Research Specialist
   email: ke.wu (at) ucsf.edu
 #  scholar:
   description: "I recently graduated from UCLA, with a B.S in Biochemistry and a minor in Statistics. Ever since my first year in college, I started working in the lab of Chong Liu on the development of a photocatalytic inorganic-biological hybrid system to achieve nitrogen reduction using Cadmium Telluride quantum dots and X. Autotrophicus nitrogen-fixing bacteria. My research project specifically tested the nitrogen reduction efficiency under various experimental conditions given different types of electron donors. Ultimately, I presented the result of this project at 2020 Undergraduate Research Week to complete my Undergraduate Research Fellowship Program at UCLA. In addition, I have led multiple data science projects in the field of statistical modeling, including natural language processing, linear/logistic regression, cluster analysis, and principal component analysis.
+
 
   I am currently a research specialist in Ramani Lab to help with the development of high-throughput sequencing technologies to study the mechanism of gene regulation in chromatin remodeling and epigenetics. I am excited to start this position and accumulate experience in both experimental skillsets and computational analysis."
 
