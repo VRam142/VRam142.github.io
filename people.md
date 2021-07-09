@@ -62,19 +62,14 @@ subtitle: Ramani Lab Members
   <td>Ahituv Lab</td>
 </tr>
 <tr>
-  <td>Camille Moore</td>
-  <td>Tetrad / Fall / 20-21</td>
-  <td>TBD</td>
-</tr>
-<tr>
   <td>Zach Cogan</td>
   <td>Tetrad / Winter / 20-21</td>
-  <td>TBD</td>
+  <td>Walter Lab</td>
 </tr>
 <tr>
   <td>Alex Hong</td>
   <td>Tetrad / Winter / 20-21</td>
-  <td>TBD</td>
+  <td>Bondy-Denomy Lab</td>
 </tr>
 </table>
 <hr>
