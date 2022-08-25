@@ -90,4 +90,14 @@ subtitle: Ramani Lab Members
   <td>Research Specialist / 2020 - 2021</td>
   <td>PhD Program @ UC Santa Cruz (BME)</td>
 </tr>
+<tr>
+  <td>Colin McNally, PhD</td>
+  <td>Postdoctoral Fellow / 2020 - 2022</td>
+  <td>Computational Biologist, Biotech Startup</td>
+</tr>
+<tr>
+  <td>Nour Abdulhay, PhD</td>
+  <td>PhD Student (BMS) / 2019 - 2022</td>
+  <td>Scientist, Biotech Startup (BME)</td>
+</tr>
 </table>
