@@ -83,21 +83,21 @@ subtitle: Ramani Lab Members
 <tr>
   <td>Aidan Keith</td>
   <td>Research Specialist / 2018 - 2020</td>
-  <td>PhD Program @ UW Genome Sciences</td>
+  <td>PhD Program @ UW (Genome Sciences; Shendure Lab)</td>
 </tr>
 <tr>
   <td>Yuan Daniel Xu</td>
   <td>Research Specialist / 2020 - 2021</td>
-  <td>PhD Program @ UC Santa Cruz (BME)</td>
+  <td>PhD Program @ UC Santa Cruz (BME; Haussler Lab)</td>
 </tr>
 <tr>
   <td>Colin McNally, PhD</td>
   <td>Postdoctoral Fellow / 2020 - 2022</td>
-  <td>Computational Biologist, Biotech Startup</td>
+  <td>Computational Biologist @ Biotech Startup</td>
 </tr>
 <tr>
   <td>Nour Abdulhay, PhD</td>
   <td>PhD Student (BMS) / 2019 - 2022</td>
-  <td>Scientist, Biotech Startup</td>
+  <td>Scientist @ Biotech Startup</td>
 </tr>
 </table>
