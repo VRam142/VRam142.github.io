@@ -98,6 +98,6 @@ subtitle: Ramani Lab Members
 <tr>
   <td>Nour Abdulhay, PhD</td>
   <td>PhD Student (BMS) / 2019 - 2022</td>
-  <td>Scientist, Biotech Startup (BME)</td>
+  <td>Scientist, Biotech Startup</td>
 </tr>
 </table>
