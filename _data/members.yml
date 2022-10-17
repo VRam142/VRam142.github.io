@@ -22,61 +22,6 @@
     I began my own independent research group as a Sandler Faculty Fellow in the Fall of 2018 and transitioned to an Assistant Professor position at the Gladstone Institute for Data Science & Biotechnology / UCSF Department of Biochemistry & Biophysics in 2021. Broadly, our overarching goal is to continue developing novel molecular methods to study gene regulatory phenomena across the central dogma.
     '
 
-# - name: Aidan Keith, BS
-#   image: /img/aidan.png
-#   altimage: /img/aidan.png
-#   position: Junior Research Specialist
-#   email: aidan.keith (at) ucsf.edu
-# #  scholar:
-#   description: 'I recently finished my B.S. degree in Biology at the University of Washington. In February 2017 I began working as an undergraduate research assistant in Jay Shendure''s lab in the UW department of Genome Sciences. In Jay''s lab I worked closely with Jason Klein to research regulatory DNA in the context of evolution and disease. To do so, we used “Massively Parallel Reporter Assays” (MPRAs), a variation of traditional reporter assays that can test thousands of sequences for regulatory activity en masse by using Next Generation Sequencing (NGS) as a readout. Notably, we applied MPRAs to study the evolution of enhancers in primates, as well as to functionally characterize and prioritize GWAS SNPs that may be involved in osteoarthritis pathogenesis. Since MPRAs often rely on testing short array-synthesized sequences, I also helped develop a protocol to assemble thousands of array oligos into longer sequences that are closer to the size of most predicted enhancers.
-#
-#
-#   I am very excited to be joining the Ramani lab, where I will get to continue studying gene regulation by implementing and developing new -omics techniques.
-#   '
-
-# - name: Nour Abdulhay, BA
-#   image: /img/nabd.png
-#   altimage: /img/nabd.png
-#   position: Graduate Student (BMS)
-#   email: nour.abdulhay (at) ucsf.edu
-#   twitter: "nourabdulhay"
-# #  scholar:
-#   description: "I graduated from Wellesley College in 2014 where I studied Biology. Afterwards, I worked for several years in Vijay Sankaran's lab at Boston Children's Hospital / The Broad Institute, which studies hematopoiesis and how genetic variation alters blood cell production. I did research to understand mechanisms that lead to rare blood disorders, specifically using human pluripotent stem cells for disease modeling and investigated aberrant splicing mutations from patients with hematological disorders. In my main project, I explored how noncoding mutations disrupt the spliceosome and may lead to dyserythropoietic anemia. I am currently a 2nd-year PhD graduate student in the Biomedical Sciences program at UCSF. I rotated in the Ramani lab in Spring 2019, where I worked on methods for generating single-molecule and genome-wide maps of epigenetic modification. I look forward to starting my thesis research here, where I will develop high-throughput technologies to investigate how applied metabolic and genetic perturbations affect protein-DNA interactions and overall cellular-state changes."
-#
-# - name: Colin McNally, PhD
-#   image: /img/cmcn.jpg
-#   altimage: /img/cmcn.jpg
-#   position: Postdoctoral Fellow
-#   email: colin.p.mcnally (at) gmail.com
-#   twitter: "cpmcnally"
-# #  scholar:
-#   description: "I graduated with my A.B. in Molecular Biology from Princeton in 2013. For my senior thesis I worked in the lab of Leonid Kruglyak and studied the genetic architecture of heat and salt shock survival in yeast. I then earned my Ph.D. in the department of Genome Sciences at the University of Washington, where I worked with Elhanan Borenstein. In my graduate research I studied bacterial coevolution using metabolic models of microbial growth. In my first project I simulated two species evolving together over a long time scale and in tight isolation, analogous to the evolution of insect symbionts. I found frequent emergence of cooperation and investigated the metabolic phenotypes and genetic causes. In my second project I simulated the growth of many E. coli reaction knockouts in the context of various mixed communities of other species. I used this data to study how the adaptive landscape of a focal species changes as a function of the ecological context.
-#
-#
-#   I am excited to be joining the Ramani Lab and applying my skills to study gene regulation datasets generated from cutting-edge methodologies."
-#
-# - name: Laurel Estes, BA
-#   image: /img/lest.JPG
-#   altimage: /img/lest.JPG
-#   position: Graduate Student joint w/ Goodarzi Lab (iPQB)
-#   email: laurel.estes (at) ucsf.edu
-# #  scholar:
-#   description: "I graduated from Pomona College in 2015 with a major in Molecular Biology and a minor in Computer Science. As an undergraduate, I worked for two summers in the lab of Dr. Tejal Desai at UCSF, where I constructed and tested biocompatible membrane devices for the controlled release of large and small molecules in vivo. Ultimately, I presented the results of this project in a talk at the 2013 Biomedical Engineering Society conference in Seattle. At Pomona, for my senior thesis, I worked in the lab of Professor Jane Liu on an ongoing project characterizing and engineering riboswitches in *V. cholerae*. After graduation I worked at Ginkgo Bioworks in Boston for two years, helping set up and operate high-throughput pipelines in their foundry for various fundamental procedures in synthetic biology. The summer before starting at UCSF, I worked at Teselagen Biotechnology and helped them design their LIMS system in collaboration with their clients' lab managers.
-#
-#
-#   I am currently a second-year PhD student in the Integrated Program in Quantitative Biology, Bioinformatics track. In my rotation with the Ramani Lab, I worked on applying the neural network architecture Basenji to ATAC-Seq data from The Cancer Genome Atlas, with the goal of using the correlations between sequence and chromatin accessibility encapsulated by the trained model to search for cis-regulatory elements of tRNA genes. I am very excited to be joining the Ramani Lab, and I am looking forward to continuing my previous project and developing my thesis work in the intersections of machine learning and regulatory logic in biological systems."
-
-# - name: Dan Xu, BS
-#   image: /img/dxu.jpg
-#   altimage: /img/dxu.jpg
-#   position: Junior Research Specialist
-#   email: daniel.xu (at) ucsf.edu
-# #  scholar:
-#   description: "I graduated from Georgia Institute of Technology in the year of 2018 with B.S.degree in Biochemistry. Prior to my graduation, I participated in both biomedical engineering and organic chemistry laboratory settings. With the objective to study the proteolytic network between cathepsin proteases and extracellular matrix in malignant tumors, my role in the bioengineering laboratory was to optimize and execute experimental methods from literature reviews, to purify and activate precursor-cathepsins from transfected HEK 293T cells. Secondly, for my initial undergraduate project, I synthesized HDAC inhibitors to determine their optimal antiproliferative activity on breast cancer cell lines. Afterwards, I joined the University of California, San Francisco and facilitated a study that focused on whether cellular matrix dimensionality intrinsically affects cell behaviors that predispose to cell dormancy.
-#
-#
-#   Having committed in different research settings and conferences at both Georgia Institute of Technology and the University of California, San Francisco, I have found that I take inspiration in understanding of human diseases in a genomic level through experimental and computational methods. I am very much excited to join the Ramani Lab, where I can contribute through applying my experimental knowledge and enhance my background on genetics and bioinformatics."
-
 - name: Scott Nanda, BA, MSc
   image: /img/snan.png
   altimage: /img/snan.png
@@ -98,8 +43,8 @@
 I am excited to be working remotely with the Ramani Lab as an introduction into research in the field of systems biology. I look forward to analyzing sequencing data and implementing neural networks in order to study gene regulatory mechanisms."
 
 - name: Camille Moore, BA
-  image: /img/cmoore.JPG
-  altimage: /img/cmoore.JPG
+  image: /img/cmoore2.JPG
+  altimage: /img/cmoore2.JPG
   position: Graduate Student joint w/ Narlikar Lab (Tetrad)
   email: camille.moore (at) ucsf.edu
 #  scholar:
@@ -144,25 +89,25 @@ I am excited to be working remotely with the Ramani Lab as an introduction into 
   altimage: /img/myang.JPG
   position: Postdoctoral Fellow
   email: marty.yang (at) gladstone.ucsf.edu
+  twitter: "MartyYang"
 #  scholar:
   description: "I graduated from Duke University in 2015 with a B.S. in Neuroscience and minors in Chemistry and Romance Studies. At Duke, I conducted my senior thesis in Anne West’s lab combining CRISPR/Cas9 technology with single-cell readouts of gene expression to study the function of neuronal activity-dependent enhancers.
 After graduation, I moved to Boston and worked as a tech in Mike Greenberg’s lab at Harvard Medical School. There, I studied how sequence changes at transcription factor binding motifs contribute to species-specific patterns of gene transcription in the human retina and developing brain. I joined the Program in Neuroscience (PiN) in 2017 and I continued as a Ph.D. student in Mike’s lab. My graduate work focused on using a genetic approach to explore the determinants of enhancer function, focusing on the role of Ras/MAPK signaling and AP-1 TFs in establishing cell type-specific gene regulatory landscapes. More specifically, I leveraged naturally occurring genetic variation between inbred mouse strains to perform a large-scale mutagenesis screen of enhancer sequences in their native chromatin state.
 I started as a postdoc in the Ramani lab in 2022, where I am interested in employing single-molecule methods to study the interplay between transcription factors and chromatin remodelers in defining genome organization. In particular, I am looking to study how nucleosome structure is established in endoderm development, with an emphasis on understanding how these processes go awry in disease"
 
-
-
-- name: Bertie Woof, PhD
-  image: /img/bertie.png
-  altimage: /img/bertie.png
-  position: Lab Mascot / Resident Treat Eater
-  email: just give me treats plz.
-#  scholar:
-  description: "*woof* *woof* *woof*! =)"
+- name: Hannah J Richter, PhD
+  image: /img/hannah.jpg
+  altimage: /img/hannah.jpg
+  position: Postdoctoral Fellow
+  email: hannah.richter (at) gladstone.ucsf.edu
+  twitter: "MdmPalindrome"
+  description: "I graduated in 2015 with a B.S. in Biochemistry and Philosophy from Beloit College, a small liberal arts college in southern Wisconsin. My undergraduate research experience focused on the physiological underpinnings of memory and Alzheimer’s disease in mouse model systems. From there, I joined the Biochemistry and Molecular Biophysics graduate group at the University of Pennsylvania and began my PhD in the lab of Dr. Mitch Lazar. My work there interrogated the interplay between transcription and physiology by studying the role of the histone deacetylase corepressors NCoR1/2 in brown adipose tissue thermogenesis. I uncovered a surprising function for these corepressors in mediating inflammation using genetic mouse models, RNA-sequencing, and ChIP-sequencing methods.
+I joined the Ramani lab in 2022 and aim to combine my knowledge of physiology and nuclear receptor biology with cutting-edge methods of sequencing and chromatin mapping to understand the basic molecular biology behind tissue development and function. I’m looking forward to expanding my skills in computational biology and biochemistry to complement this work. I’m also passionate about teaching and mentoring and am excited to continue to develop those interests during my time at Gladstone."
 
 - name: Siva Kasinathan, MD, PhD
   image: /img/skas.jpg
   altimage: /img/skas.jpg
-  position: Understudy to the Lab Mascot / Resident Physician
+  position: Clinical Fellow
   email: skas (at) stanford.edu
   scholar: yZKmvUYAAAAJ
   twitter: "SivaKasinathan"
@@ -171,6 +116,14 @@ I started as a postdoc in the Ramani lab in 2022, where I am interested in emplo
 
 
   In 2019, I joined the Pediatrics Residency Program at Stanford University / Lucile Packard Children’s Hospital. As a physician and basic scientist, I hope to work with the Ramani lab to dissect gene dysregulation in human disease through novel molecular technologies."
+
+- name: Bertie Woof, PhD
+  image: /img/bertie.png
+  altimage: /img/bertie.png
+  position: Lab Mascot / Resident Treat Eater
+  email: just give me treats plz.
+#  scholar:
+  description: "*woof* *woof* *woof*! =)"
 
 - name: We are hiring!
   image: /img/hello_world.jpeg
