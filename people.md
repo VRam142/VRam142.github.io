@@ -71,6 +71,11 @@ subtitle: Ramani Lab Members
   <td>Tetrad / Winter / 20-21</td>
   <td>Bondy-Denomy Lab</td>
 </tr>
+<tr>
+  <td>Bryson Choy</td>
+  <td>BMI / Fall / 22-23</td>
+  <td>Ye Lab</td>
+</tr>
 </table>
 <hr>
 <strong>Lab Alumni</strong>: <br>
@@ -99,5 +104,10 @@ subtitle: Ramani Lab Members
   <td>Nour Abdulhay, PhD</td>
   <td>PhD Student (BMS) / 2019 - 2022</td>
   <td>Scientist @ Biotech Startup</td>
+</tr>
+<tr>
+  <td>Arjun Scott Nanda, PhD</td>
+  <td>PhD Student (BMS) / 2020 - 2023</td>
+  <td></td>
 </tr>
 </table>
