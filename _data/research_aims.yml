@@ -9,9 +9,9 @@
     the *s*ingle-molecule *a*denine *m*ethylated *o*ligonucleosome *s*equencing *a*ssay (SAMOSA), one of the first assays to combine methylase footprinting of chromatin with long-read sequencing on the Pacific Biosciences (PacBio) instrument,
     to map protein-DNA interactions on individual single DNA molecules at scale. We now apply SAMOSA and offshoots of the approach to build a quantitative & mechanistic understanding of how *cis* and *trans* regulators interact with chromatin.
 
-    > While the lab's research mainly focuses on basic chromatin biology, we are also generally interested in developing new methods that use long-read sequencing.
+    While the lab's research mainly focuses on basic chromatin biology, we are also generally interested in developing new methods that use long-read sequencing.
     For instance, we recently developed SMRT-Tag -- a transposase-based approach that enables native PacBio DNA sequencing of very small amounts of input DNA.
-    We have also worked to improve single-molecule RNA sequencing methods; working with [Hani Goodarzi''s group](https://goodarzilab.ucsf.edu/),
+    We have also worked to improve single-molecule RNA sequencing methods; working with [Hani Goodarzi's group](https://goodarzilab.ucsf.edu/),
     we've begun experiments to better understand how chromatin instructs the alternative splicing of mRNA.
 
 - title: "in vivo *mapping & quantitative* in vitro *reconstitution of chromatin-based regulation*"
@@ -19,7 +19,7 @@
   altimage: /img/aim2.png
   description: >
     Genomic technologies provide invaluable descriptive views of gene regulatory processes, but often fall short of providing causal mechanistic insight. To
-    address this limitation, we've worked closely with [Geeta Narlikar''s lab](https://narlikarlab.ucsf.edu/), to combine SAMOSA footprinting with
+    address this limitation, we've worked closely with [Geeta Narlikar's lab](https://narlikarlab.ucsf.edu/), to combine SAMOSA footprinting with
     precise biochemical reconstitution of chromatin fibers *in vitro*. As proof-of-concept of this approach, we examined the activity of the human ISWI chromatin remodeling complex
     on chromatin reconstituted on mammalian genomic sequence, demonstrating through a combination of *in vitro* and *in vivo* single-molecule experiments that these
     remodelers sense nucleosome density to program the nucleosome spacing on individual DNA templates. We are actively applying this approach to
@@ -31,6 +31,6 @@
   description: >
     Cellular & organismal functions in development & disease rely on the proper integration of extracellular signals into gene regulatory responses.
     We are broadly interested in understanding how cellular stressors (*e.g.* metabolic perturbation, hormone signaling, etc.) are sensed by the dynamic epigenome, and  associated memory for such responses.
-    This broad interest has taken us in a variety of directions':' we have collaborated with [Bob Eisenman''s lab](https://research.fhcrc.org/eisenman/en.html) at the Fred Hutchinson Cancer Research Center, to apply our tools to diverse *in vitro* and *in vivo* models
+    This broad interest has taken us in a variety of directions':' we have collaborated with [Bob Eisenman's lab](https://research.fhcrc.org/eisenman/en.html) at the Fred Hutchinson Cancer Research Center, to apply our tools to diverse *in vitro* and *in vivo* models
     of MYC network dysregulation; with Hani Goodarzi and many other members of UCSF's [Helen Diller Cancer Center](https://cancer.ucsf.edu/), we've begun charting the chromatin structure associated with tumour indolence & metastasis; also with the Goodarzi group,
     we've begun dissecting the regulatory elements necessary for RNA Polymerase III transcription in mouse and human, in hopes of defining new metabolically-responsive *cis* & *trans* regulatory elements.
