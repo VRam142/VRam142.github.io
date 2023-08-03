@@ -110,4 +110,20 @@ subtitle: Ramani Lab Members
   <td>PhD Student (BMI) / 2020 - 2023</td>
   <td></td>
 </tr>
+<tr>
+  <td>Ke "Coco" Wu</td>
+  <td>Research Associate / 2021 - 2023</td>
+  <td>PhD Program @ MIT (Biology)</td>
+</tr>
+<tr>
+  <td>Megan Ostrowski</td>
+  <td>Research Associate / 2021 - 2023</td>
+  <td>PhD Program @ UCSF (Tetrad)</td>
+</tr>
+<tr>
+  <td>Mythili Ketavarapu</td>
+  <td>Undergraduate Researcher / 2020 - 2023</td>
+  <td>PhD Program @ MSKCC / Rockefeller (Tri-I Computational Biology)</td>
+</tr>
+
 </table>
