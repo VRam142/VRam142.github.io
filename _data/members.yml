@@ -128,6 +128,28 @@ I joined the Ramani lab in 2022 and aim to combine my knowledge of physiology an
   description: "I completed my B.S and M.S degrees in Biotechnology at the University of Wroclaw. During my master’s, I was granted a scholarship form European Science Council to perform the research in Dr. Lionel Pintard’s lab at the University of Paris were I studied the role of ubiquitin modification in the regulation of MBK-2 kinase, which is essential for the oocyte-to-embryo transition in C. elegans. As a scholar of the BioLAB program administrated by Polish-U.S. Fulbright Commission, I did 2 years research in Chuan He’s lab at the University of Chicago focused on the development of new sequencing methods for RNA and DNA modifications. I developed a new bisulfite-seq method for m5C in RNA which has very low false positive level and significantly less RNA damage, and further improved it for very low input.
 In the Ramani lab, I’m interested in working on the development of high-throughput sequencing technologies for low input samples and its application in studies of the role of epigenetic marks and chromatin remodeling in gene regulation."
 
+- name: Aaron Corin, BS
+  image: /img/Corin_Headshot.jpg
+  altimage: /img/Corin_Headshot.jpg
+  position: Graduate Student joint w/ Narlikar Lab (Tetrad)
+  email: aaron.corin (at) ucsf.edu
+#  scholar: yZKmvUYAAAAJ
+#  twitter: "SivaKasinathan"
+# orcid: "orcid.org/0000-0003-3345-5960"
+  description: "In 2020, I completed my undergraduate studies at Brandeis University, earning a B.S. in Biochemistry and Biology with a minor in Chemistry. During my time at Brandeis, I gained practical experience through internships at AstraZeneca and Celgene, where I worked in the translational oncology and target validation departments, respectively.
+	Following my graduation, I joined the lab of Dr. Cigall Kadoch at Harvard Medical School / Dana Farber Cancer Institute as a research associate for two years. During this period, I investigated mechanisms driving the targeting and activity of ATP-dependent chromatin remodeling complexes belonging to the mSWI/SNF family in the context of cancer.
+	I am currently a student in the Tetrad program at UCSF, co-mentored by the Ramani and Narlikar labs. I am looking forward to improving my skills in the fields of genomics and biochemistry and am particularly excited about employing in vitro reconstitution methodologies to explore chromatin-based regulatory processes."
+
+- name: Kaite Zhang, BS
+  image: /img/image.png
+  altimage: /img/image.png
+  position: Graduate Student (Tetrad)
+  email: kaite.zhang (at) ucsf.edu
+#  scholar: yZKmvUYAAAAJ
+#  twitter: "SivaKasinathan"
+# orcid: "orcid.org/0000-0003-3345-5960"
+  description: "I graduated from Tufts University in 2016 with a B.S. in Biology and Clinical Psychology. I was an undergraduate researcher in Dr. Benjamin Wolfe’s lab, studying bacterial-fungal interactions using cheese rind microbiomes as model ecosystems. I found that motile bacteria like *Serratia proteamaculans* can utilize fungal hyphae to increase dispersal range, imbuing a growth advantage in the greater microbial community. After graduating, I worked at the Broad Institute in the lab of Dr. Eric Lander, working closely with Drs. Vidya Subramanian and Jesse Engreitz to develop HyPR-seq (hybridization of probes to RNA for sequencing), a method for targeted single-cell sequencing of low expression RNAs. I also worked on developing a high-throughput, combined, single-cell RNA- and DNA-sequencing method using microfluidics. Discovering my interests in technology development and gene regulation, I joined the Ramani Lab in 2023. Here, I aim to develop molecular and computational methods to investigate the mechanisms that underlie chromatin dynamics and genome architecture."
+
 - name: Bertie Woof, PhD
   image: /img/bertie.png
   altimage: /img/bertie.png
