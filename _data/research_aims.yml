@@ -2,13 +2,13 @@
   image: /img/aim1.png
   altimage: /img/aim1.png
   description: 'Our lab develops high-throughput molecular tools to study how mammalian genes are regulated in the context of chromatin -- the nucleopotein complex responsible
-  for packaging, protecting, & interpreting eukaryotic DNA. Work in our lab has been propelled by advances in single-molecule, long-read nucleic acid sequencing,
-  which offers unique advantages over prevailing "short-read" high-throughput DNA sequencing. For instance, we developed
-  the *s*ingle-molecule *a*denine *m*ethylated *o*ligonucleosome *s*equencing *a*ssay (SAMOSA), one of the first assays to combine methylase footprinting of chromatin with long-read sequencing on the Pacific Biosciences (PacBio) instrument,
-  to map protein-DNA interactions on individual single DNA molecules at scale. We now apply SAMOSA and offshoots of the approach to build a quantitative & mechanistic understanding of how *cis* and *trans* regulators interact with chromatin.
+    for packaging, protecting, & interpreting eukaryotic DNA. Work in our lab has been propelled by advances in single-molecule, long-read nucleic acid sequencing,
+    which offers unique advantages over prevailing "short-read" high-throughput DNA sequencing. For instance, we developed
+    the *s*ingle-molecule *a*denine *m*ethylated *o*ligonucleosome *s*equencing *a*ssay (SAMOSA), one of the first assays to combine methylase footprinting of chromatin with long-read sequencing on the Pacific Biosciences (PacBio) instrument,
+    to map protein-DNA interactions on individual single DNA molecules at scale. We now apply SAMOSA and offshoots of the approach to build a quantitative & mechanistic understanding of how *cis* and *trans* regulators interact with chromatin.
 
-  While the lab's research mainly focuses on basic chromatin biology, we are also generally interested in developing new methods that use long-read sequencing. For instance, we recently developed SMRT-Tag -- a transposase-based approach that enables native
-  PacBio DNA sequencing of very small amounts of input DNA. We have also worked to improve single-molecule RNA sequencing methods; working with [Hani Goodarzi''s group](https://goodarzilab.ucsf.edu/), we've begun experiments to better understand how chromatin instructs the alternative splicing of mRNA.'
+    While the lab's research mainly focuses on basic chromatin biology, we are also generally interested in developing new methods that use long-read sequencing. For instance, we recently developed SMRT-Tag -- a transposase-based approach that enables native
+    PacBio DNA sequencing of very small amounts of input DNA. We have also worked to improve single-molecule RNA sequencing methods; working with [Hani Goodarzi''s group](https://goodarzilab.ucsf.edu/), we've begun experiments to better understand how chromatin instructs the alternative splicing of mRNA.'
 
 - title: "in vivo *mapping & quantitative* in vitro *reconstitution of chromatin-based regulation*"
   image: /img/aim2.png
