@@ -125,5 +125,9 @@ subtitle: Ramani Lab Members
   <td>Undergraduate Researcher / 2020 - 2023</td>
   <td>PhD Program @ MSKCC / Rockefeller (Tri-I Computational Biology)</td>
 </tr>
-
+<tr>
+  <td>Nicole Harris</td>
+  <td>SRTP Summer Undergraduate / 2023</td>
+  <td>Undergraduate @ MIT/td>
+</tr>
 </table>
