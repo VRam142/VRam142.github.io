@@ -107,7 +107,7 @@ subtitle: Ramani Lab Members
 </tr>
 <tr>
   <td>Arjun Scott Nanda, PhD</td>
-  <td>PhD Student (BMS) / 2020 - 2023</td>
+  <td>PhD Student (BMI) / 2020 - 2023</td>
   <td></td>
 </tr>
 </table>
