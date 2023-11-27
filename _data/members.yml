@@ -143,10 +143,14 @@ In the Ramani lab, I’m interested in working on the development of high-throug
   altimage: /img/image.png
   position: Graduate Student (Tetrad)
   email: kaite.zhang (at) ucsf.edu
-#  scholar: yZKmvUYAAAAJ
-#  twitter: "SivaKasinathan"
-# orcid: "orcid.org/0000-0003-3345-5960"
   description: "I graduated from Tufts University in 2016 with a B.S. in Biology and Clinical Psychology. I was an undergraduate researcher in Dr. Benjamin Wolfe’s lab, studying bacterial-fungal interactions using cheese rind microbiomes as model ecosystems. I found that motile bacteria like *Serratia proteamaculans* can utilize fungal hyphae to increase dispersal range, imbuing a growth advantage in the greater microbial community. After graduating, I worked at the Broad Institute in the lab of Dr. Eric Lander, working closely with Drs. Vidya Subramanian and Jesse Engreitz to develop HyPR-seq (hybridization of probes to RNA for sequencing), a method for targeted single-cell sequencing of low expression RNAs. I also worked on developing a high-throughput, combined, single-cell RNA- and DNA-sequencing method using microfluidics. Discovering my interests in technology development and gene regulation, I joined the Ramani Lab in 2023. Here, I aim to develop molecular and computational methods to investigate the mechanisms that underlie chromatin dynamics and genome architecture."
+
+- name: Keerthi Renduchintala, BS
+  image: /img/Keerthi_headshot.jpg
+  altimage: /img/Keerthi_headshot.jpg
+  position: Research Associate
+  email: keerthi.redunchintala (at) gladstone.ucsf.edu
+  description: "I graduated from the University of Washington-Seattle in 2023 with a B.S. in Biochemistry and a minor in Data Science. At UW, I was a student researcher at the Institute for Protein Design under Dr. Cameron Glasscock. As a student researcher, I worked with a cohort of students on a project to computationally design DNA-binding proteins and experimentally validate them. I am excited to be joining the Ramani Lab to grow my computational and laboratory skill sets while studying genomics and transcriptional regulation using novel high-throughput sequencing technologies. I hope to continue to grad school to study computational approaches to understanding diseases."
 
 - name: Bertie Woof, PhD
   image: /img/bertie.png
