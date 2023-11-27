@@ -8,19 +8,15 @@
 # orcid: "orcid.org/0000-0003-3345-5960"
   description: 'I finished my B.S.E. in Chemical Engineering at Princeton University, with minors in Quantitative & Computational Biology, and Engineering Biology.
     While at Princeton, I studied in David Botstein''s [Integrated Science Curriculum](https://lsi.princeton.edu/integratedscience); this course sequence
-    motivated me to pursue research in quantitative molecular biology.
-
-
-    After finishing my undergraduate degree in 2012, I spent a year as a Research Intern / Computational Biologist working in the Bay Area at [Sangamo BioSciences](https://www.sangamo.com/) (now Sangamo Therapeutics). There,
+    motivated me to pursue research in quantitative molecular biology. After finishing my undergraduate degree in 2012, I spent a year as a Research Intern / Computational Biologist working in the Bay Area at [Sangamo BioSciences](https://www.sangamo.com/) (now Sangamo Therapeutics). There,
     I worked closely with Jeff Miller and Ed Rebar to develop high-throughput sequencing assays to map potential off-target genomic sites for *de novo* engineered zinc finger and TALE nucleases. I then moved to Seattle, where I completed my Ph.D. in Genome Sciences in Jay Shendure''s lab
-    at the University of Washington. In Jay''s lab, I developed new molecular technologies to study biomolecular phenomena at scale. I first developed RNA Proximity Ligation, a high-throughput method
-    to resolve RNA structures transcriptome-wide using proximity ligation and sequencing. I then worked with Andrew Adey, Junyue Cao, Darren Cusanovich, Zhijun Duan, and a bunch of other incredibly talented scientists in our lab and at Illumina
-    to co-develop single-cell combinatorial indexing ("sci" sequencing), a methodological approach for molecularly characterizing thousands of single-cells without ever resorting to single-cell isolation. As a graduate student I also developed an interest in chromatin structure and transcriptional regulation; I worked closely with Christine Disteche''s lab to apply novel
-    bulk- and single-cell sequencing technologies to dissect the dynamics underlying mammalian X chromosome inactivation, wherein one entire X chromosome is heterochromatinized during early female mammalian development.
-
-
-    I began my own independent research group as a Sandler Faculty Fellow in the Fall of 2018 and transitioned to an Assistant Professor position at the Gladstone Institute for Data Science & Biotechnology / UCSF Department of Biochemistry & Biophysics in 2021. Broadly, our overarching goal is to continue developing novel molecular methods to study gene regulatory phenomena across the central dogma.
+    at the University of Washington. I began my own independent research group as a Sandler Faculty Fellow in the Fall of 2018 and transitioned to an Assistant Professor position at the Gladstone Institute for Data Science & Biotechnology / UCSF Department of Biochemistry & Biophysics in 2021.
     '
+# In Jay''s lab, I developed new molecular technologies to study biomolecular phenomena at scale. I first developed RNA Proximity Ligation, a high-throughput method
+# to resolve RNA structures transcriptome-wide using proximity ligation and sequencing. I then worked with Andrew Adey, Junyue Cao, Darren Cusanovich, Zhijun Duan, and a bunch of other incredibly talented scientists in our lab and at Illumina
+# to co-develop single-cell combinatorial indexing ("sci" sequencing), a methodological approach for molecularly characterizing thousands of single-cells without ever resorting to single-cell isolation. As a graduate student I also developed an interest in chromatin structure and transcriptional regulation; I worked closely with Christine Disteche''s lab to apply novel
+# bulk- and single-cell sequencing technologies to dissect the dynamics underlying mammalian X chromosome inactivation, wherein one entire X chromosome is heterochromatinized during early female mammalian development.
+
 # - name: Scott Nanda, BA, MSc
 #   image: /img/snan.png
 #   altimage: /img/snan.png
