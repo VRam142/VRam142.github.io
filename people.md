@@ -108,7 +108,7 @@ subtitle: Ramani Lab Members
 <tr>
   <td>Arjun Scott Nanda, PhD</td>
   <td>PhD Student (BMI) / 2020 - 2023</td>
-  <td></td>
+  <td>Scientist @ Tacit Therapeutics</td>
 </tr>
 <tr>
   <td>Ke "Coco" Wu</td>
