@@ -128,6 +128,6 @@ subtitle: Ramani Lab Members
 <tr>
   <td>Nicole Harris</td>
   <td>SRTP Summer Undergraduate / 2023</td>
-  <td>PhD Program @ Rice (Biomedical Engineering)</td>
+  <td>PhD Program @ Rice (Bioengineering)</td>
 </tr>
 </table>
