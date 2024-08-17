@@ -103,7 +103,7 @@ subtitle: Ramani Lab Members
 <tr>
   <td>Nour Abdulhay, PhD</td>
   <td>PhD Student (BMS) / 2019 - 2022</td>
-  <td>Scientist @ Biotech Startup</td>
+  <td>Scientist @ Addition Therapeutics</td>
 </tr>
 <tr>
   <td>Arjun Scott Nanda, PhD</td>
@@ -113,21 +113,21 @@ subtitle: Ramani Lab Members
 <tr>
   <td>Ke "Coco" Wu</td>
   <td>Research Associate / 2021 - 2023</td>
-  <td>PhD Program @ MIT (Biology)</td>
+  <td>PhD Program @ MIT (Biology; Hansen & Sanchez-Rivera Labs)</td>
 </tr>
 <tr>
   <td>Megan Ostrowski</td>
   <td>Research Associate / 2021 - 2023</td>
-  <td>PhD Program @ UCSF (Tetrad)</td>
+  <td>PhD Program @ UCSF (Tetrad; Pollen Lab)</td>
 </tr>
 <tr>
   <td>Mythili Ketavarapu</td>
   <td>Undergraduate Researcher / 2020 - 2023</td>
-  <td>PhD Program @ MSKCC / Rockefeller (Tri-I Computational Biology)</td>
+  <td>PhD Program @ Weill Cornell (Tri-I Computational Biology; Josefowicz & Leslie Labs)</td>
 </tr>
 <tr>
   <td>Nicole Harris</td>
   <td>SRTP Summer Undergraduate / 2023</td>
-  <td>Undergraduate @ MIT</td>
+  <td>PhD Program @ Rice (Biomedical Engineering)</td>
 </tr>
 </table>
