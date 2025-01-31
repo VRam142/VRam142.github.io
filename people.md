@@ -98,7 +98,7 @@ subtitle: Ramani Lab Members
 <tr>
   <td>Colin McNally, PhD</td>
   <td>Postdoctoral Fellow / 2020 - 2022</td>
-  <td>Computational Biologist @ Biotech Startup</td>
+  <td>Senior ML Engineer @ GlaxoSmithKline</td>
 </tr>
 <tr>
   <td>Nour Abdulhay, PhD</td>

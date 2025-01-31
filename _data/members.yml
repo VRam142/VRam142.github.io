@@ -110,17 +110,17 @@ I joined the Ramani lab in 2022 and aim to combine my knowledge of physiology an
 
 
   In 2019, I joined the Pediatrics Residency Program at Stanford University / Lucile Packard Children’s Hospital. As a physician and basic scientist, I hope to work with the Ramani lab to dissect gene dysregulation in human disease through novel molecular technologies."
-
-- name: Iryna Irkliyenko, MS
-  image: /img/IMG_4726.jpg
-  altimage: /img/IMG_4726.jpg
-  position: Research Associate
-  email: iryna.irkliyenko (at) gladstone.ucsf.edu
-#  scholar: yZKmvUYAAAAJ
-#  twitter: "SivaKasinathan"
-# orcid: "orcid.org/0000-0003-3345-5960"
-  description: "I completed my B.S and M.S degrees in Biotechnology at the University of Wroclaw. During my master’s, I was granted a scholarship form European Science Council to perform the research in Dr. Lionel Pintard’s lab at the University of Paris were I studied the role of ubiquitin modification in the regulation of MBK-2 kinase, which is essential for the oocyte-to-embryo transition in C. elegans. As a scholar of the BioLAB program administrated by Polish-U.S. Fulbright Commission, I did 2 years research in Chuan He’s lab at the University of Chicago focused on the development of new sequencing methods for RNA and DNA modifications. I developed a new bisulfite-seq method for m5C in RNA which has very low false positive level and significantly less RNA damage, and further improved it for very low input.
-In the Ramani lab, I’m interested in working on the development of high-throughput sequencing technologies for low input samples and its application in studies of the role of epigenetic marks and chromatin remodeling in gene regulation."
+#
+# - name: Iryna Irkliyenko, MS
+#   image: /img/IMG_4726.jpg
+#   altimage: /img/IMG_4726.jpg
+#   position: Research Associate
+#   email: iryna.irkliyenko (at) gladstone.ucsf.edu
+# #  scholar: yZKmvUYAAAAJ
+# #  twitter: "SivaKasinathan"
+# # orcid: "orcid.org/0000-0003-3345-5960"
+#   description: "I completed my B.S and M.S degrees in Biotechnology at the University of Wroclaw. During my master’s, I was granted a scholarship form European Science Council to perform the research in Dr. Lionel Pintard’s lab at the University of Paris were I studied the role of ubiquitin modification in the regulation of MBK-2 kinase, which is essential for the oocyte-to-embryo transition in C. elegans. As a scholar of the BioLAB program administrated by Polish-U.S. Fulbright Commission, I did 2 years research in Chuan He’s lab at the University of Chicago focused on the development of new sequencing methods for RNA and DNA modifications. I developed a new bisulfite-seq method for m5C in RNA which has very low false positive level and significantly less RNA damage, and further improved it for very low input.
+# In the Ramani lab, I’m interested in working on the development of high-throughput sequencing technologies for low input samples and its application in studies of the role of epigenetic marks and chromatin remodeling in gene regulation."
 
 - name: Aaron Corin, BS
   image: /img/Corin_Headshot.jpeg
