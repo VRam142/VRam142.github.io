@@ -130,4 +130,9 @@ subtitle: Ramani Lab Members
   <td>SRTP Summer Undergraduate / 2023</td>
   <td>PhD Program @ Rice (Bioengineering)</td>
 </tr>
+<tr>
+  <td>Iryna Irkliyenko</td>
+  <td>Research Associate / 2022 - 2024</td>
+  <td>PhD Program @ UCSF / UC Berkeley (Bioengineering)</td>
+</tr>
 </table>

@@ -10,7 +10,7 @@
     to map protein-DNA interactions on individual DNA molecules at scale. We now apply SAMOSA and offshoots of the approach to build a quantitative & mechanistic understanding of how *cis* and *trans* regulators interact with chromatin.
 
     While the lab's research mainly focuses on basic chromatin biology, we are also generally interested in developing new methods that use long-read sequencing.
-    For instance, we recently developed SMRT-Tag -- a transposase-based approach that enables native PacBio DNA sequencing of very small amounts of input DNA.
+    For instance, we developed SMRT-Tag -- a transposase-based approach that enables native PacBio DNA sequencing of very small amounts of input DNA.
     We have also worked to improve single-molecule RNA sequencing methods; working with [Hani Goodarzi's group](https://goodarzilab.ucsf.edu/),
     we've begun experiments to better understand how chromatin instructs the alternative splicing of mRNA.
 
