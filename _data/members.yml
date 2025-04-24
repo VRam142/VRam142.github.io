@@ -78,16 +78,16 @@
 #  scholar:
   description: "I graduated from Carnegie Mellon University in 2022 with a B.S. in Biology and Psychology and a minor in Human-Computer Interaction. While at CMU, I worked in Dr. Rule’s lab characterizing the Ca-loop of C. albicans thymidylate kinase. I’m excited to join the Ramani Lab to expand and develop my skills in both experimental and computational approaches towards studying gene and transcriptional regulation through novel methodologies. In the future, I hope to continue on to grad school and study genome and transcription in biomedical contexts."
 
-- name: Marty Yang, PhD
-  image: /img/myang.JPG
-  altimage: /img/myang.JPG
-  position: Postdoctoral Fellow
-  email: marty.yang (at) gladstone.ucsf.edu
-  twitter: "MartyYang"
-#  scholar:
-  description: "I graduated from Duke University in 2015 with a B.S. in Neuroscience and minors in Chemistry and Romance Studies. At Duke, I conducted my senior thesis in Anne West’s lab combining CRISPR/Cas9 technology with single-cell readouts of gene expression to study the function of neuronal activity-dependent enhancers.
-After graduation, I moved to Boston and worked as a tech in Mike Greenberg’s lab at Harvard Medical School. There, I studied how sequence changes at transcription factor binding motifs contribute to species-specific patterns of gene transcription in the human retina and developing brain. I joined the Program in Neuroscience (PiN) in 2017 and I continued as a Ph.D. student in Mike’s lab. My graduate work focused on using a genetic approach to explore the determinants of enhancer function, focusing on the role of Ras/MAPK signaling and AP-1 TFs in establishing cell type-specific gene regulatory landscapes. More specifically, I leveraged naturally occurring genetic variation between inbred mouse strains to perform a large-scale mutagenesis screen of enhancer sequences in their native chromatin state.
-I started as a postdoc in the Ramani lab in 2022, where I am interested in employing single-molecule methods to study the interplay between transcription factors and chromatin remodelers in defining genome organization. In particular, I am looking to study how nucleosome structure is established in endoderm development, with an emphasis on understanding how these processes go awry in disease"
+# - name: Marty Yang, PhD
+#   image: /img/myang.JPG
+#   altimage: /img/myang.JPG
+#   position: Postdoctoral Fellow
+#   email: marty.yang (at) gladstone.ucsf.edu
+#   twitter: "MartyYang"
+# #  scholar:
+#   description: "I graduated from Duke University in 2015 with a B.S. in Neuroscience and minors in Chemistry and Romance Studies. At Duke, I conducted my senior thesis in Anne West’s lab combining CRISPR/Cas9 technology with single-cell readouts of gene expression to study the function of neuronal activity-dependent enhancers.
+# After graduation, I moved to Boston and worked as a tech in Mike Greenberg’s lab at Harvard Medical School. There, I studied how sequence changes at transcription factor binding motifs contribute to species-specific patterns of gene transcription in the human retina and developing brain. I joined the Program in Neuroscience (PiN) in 2017 and I continued as a Ph.D. student in Mike’s lab. My graduate work focused on using a genetic approach to explore the determinants of enhancer function, focusing on the role of Ras/MAPK signaling and AP-1 TFs in establishing cell type-specific gene regulatory landscapes. More specifically, I leveraged naturally occurring genetic variation between inbred mouse strains to perform a large-scale mutagenesis screen of enhancer sequences in their native chromatin state.
+# I started as a postdoc in the Ramani lab in 2022, where I am interested in employing single-molecule methods to study the interplay between transcription factors and chromatin remodelers in defining genome organization. In particular, I am looking to study how nucleosome structure is established in endoderm development, with an emphasis on understanding how these processes go awry in disease"
 
 - name: Hannah J Richter, PhD
   image: /img/hannah.jpg
@@ -147,6 +147,16 @@ I joined the Ramani lab in 2022 and aim to combine my knowledge of physiology an
   position: Research Associate
   email: keerthi.redunchintala (at) gladstone.ucsf.edu
   description: "I graduated from the University of Washington-Seattle in 2023 with a B.S. in Biochemistry and a minor in Data Science. At UW, I was a student researcher at the Institute for Protein Design under Dr. Cameron Glasscock. As a student researcher, I worked with a cohort of students on a project to computationally design DNA-binding proteins and experimentally validate them. I am excited to be joining the Ramani Lab to grow my computational and laboratory skill sets while studying genomics and transcriptional regulation using novel high-throughput sequencing technologies. I hope to continue to grad school to study computational approaches to understanding diseases."
+
+- name: Eliana Bondra, PhD
+  image: /img/ERB_portrait.png
+  altimage: /img/ERB_portrait.png
+  position: Postdoctoral Fellow
+  email: eliana.bondra (at) gladstone.ucsf.edu
+#  scholar: yZKmvUYAAAAJ
+#  twitter: "SivaKasinathan"
+# orcid: "orcid.org/0000-0003-3345-5960"
+  description: "I graduated from Cornell University with a B.S. in Biological Sciences in 2013. My undergraduate research focused on molecular evolution and ecological genetics in a variety of non-model organisms. Following graduation, I worked with Dr. Melissa Harrison at the University of Wisconsin – Madison as a research specialist. The Harrison lab uses the early Drosophila embryo as a model system for studying epigenetic reprogramming and cell fate determinism across development. During my time in the Harrison lab, I worked to characterize two pioneer transcription factors and their roles in transcriptional regulation during early development. I began my PhD in Molecular and Cellular Biology at UC Berkeley in 2016. I completed my doctoral work in Dr. Jasper Rine’s lab where my project focused on the context dependent function of the transcriptional regulator Rap1 in gene silencing and activation in S. cerevisiae. Using both Next-Generation Sequencing readouts and genetically encoded assays to quantify chromatin state, my work highlighted the many modes of epigenetic regulatory mechanisms integrated by cells. Continuing my interest in epigenetic regulation of cell-fate decisions and gene activation, I joined the Ramani lab in Spring 2024. My work as a postdoc aims to address fundamental questions regarding the transcriptional responses to TF binding and disentangle the effects of a myriad of context- dependent interactions. I am excited to work on developing and applying single-molecule long-read sequencing assays to cancer and developmental models to elucidate underlying heterogeneity in nucleosome positioning in oncogenesis, metastasis and homeostasis. ."
 
 - name: Bertie Woof, PhD
   image: /img/bertie.png

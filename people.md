@@ -135,4 +135,9 @@ subtitle: Ramani Lab Members
   <td>Research Associate / 2022 - 2024</td>
   <td>PhD Program @ UCSF / UC Berkeley (Bioengineering)</td>
 </tr>
+<tr>
+  <td>Marty Yang, PhD</td>
+  <td>Postdoctoral Fellow / 2022 - 2025</td>
+  <td>Postdoctoral Fellow @ UCLA (Bhaduri Lab)</td>
+</tr>
 </table>
