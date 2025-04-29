@@ -148,15 +148,15 @@ I joined the Ramani lab in 2022 and aim to combine my knowledge of physiology an
   email: keerthi.redunchintala (at) gladstone.ucsf.edu
   description: "I graduated from the University of Washington-Seattle in 2023 with a B.S. in Biochemistry and a minor in Data Science. At UW, I was a student researcher at the Institute for Protein Design under Dr. Cameron Glasscock. As a student researcher, I worked with a cohort of students on a project to computationally design DNA-binding proteins and experimentally validate them. I am excited to be joining the Ramani Lab to grow my computational and laboratory skill sets while studying genomics and transcriptional regulation using novel high-throughput sequencing technologies. I hope to continue to grad school to study computational approaches to understanding diseases."
 
-- name: Eliana Bondra, PhD
-  image: /img/ERB_portrait.png
-  altimage: /img/ERB_portrait.png
-  position: Postdoctoral Fellow
-  email: eliana.bondra (at) gladstone.ucsf.edu
-#  scholar: yZKmvUYAAAAJ
-#  twitter: "SivaKasinathan"
-# orcid: "orcid.org/0000-0003-3345-5960"
-  description: "I graduated from Cornell University with a B.S. in Biological Sciences in 2013. My undergraduate research focused on molecular evolution and ecological genetics in a variety of non-model organisms. Following graduation, I worked with Dr. Melissa Harrison at the University of Wisconsin – Madison as a research specialist. The Harrison lab uses the early Drosophila embryo as a model system for studying epigenetic reprogramming and cell fate determinism across development. During my time in the Harrison lab, I worked to characterize two pioneer transcription factors and their roles in transcriptional regulation during early development. I began my PhD in Molecular and Cellular Biology at UC Berkeley in 2016. I completed my doctoral work in Dr. Jasper Rine’s lab where my project focused on the context dependent function of the transcriptional regulator Rap1 in gene silencing and activation in S. cerevisiae. Using both Next-Generation Sequencing readouts and genetically encoded assays to quantify chromatin state, my work highlighted the many modes of epigenetic regulatory mechanisms integrated by cells. Continuing my interest in epigenetic regulation of cell-fate decisions and gene activation, I joined the Ramani lab in Spring 2024. My work as a postdoc aims to address fundamental questions regarding the transcriptional responses to TF binding and disentangle the effects of a myriad of context- dependent interactions. I am excited to work on developing and applying single-molecule long-read sequencing assays to cancer and developmental models to elucidate underlying heterogeneity in nucleosome positioning in oncogenesis, metastasis and homeostasis."
+# - name: Eliana Bondra, PhD
+#   image: /img/ERB_portrait.png
+#   altimage: /img/ERB_portrait.png
+#   position: Postdoctoral Fellow
+#   email: eliana.bondra (at) gladstone.ucsf.edu
+# #  scholar: yZKmvUYAAAAJ
+# #  twitter: "SivaKasinathan"
+# # orcid: "orcid.org/0000-0003-3345-5960"
+#   description: "I graduated from Cornell University with a B.S. in Biological Sciences in 2013. My undergraduate research focused on molecular evolution and ecological genetics in a variety of non-model organisms. Following graduation, I worked with Dr. Melissa Harrison at the University of Wisconsin – Madison as a research specialist. The Harrison lab uses the early Drosophila embryo as a model system for studying epigenetic reprogramming and cell fate determinism across development. During #my time in the Harrison lab, I worked to characterize two pioneer transcription factors and their roles in transcriptional regulation during early development. I began my PhD in Molecular and Cellular Biology at UC Berkeley in 2016. I completed my doctoral work in Dr. Jasper Rine’s lab where my project focused on the context dependent function of the transcriptional regulator Rap1 in gene silencing and activation in S. cerevisiae. Using both Next-Generation Sequencing readouts and genetically
 
 - name: Rini Shah, PhD
   image: /img/rini.jpg
