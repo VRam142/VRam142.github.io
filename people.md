@@ -140,4 +140,9 @@ subtitle: Ramani Lab Members
   <td>Postdoctoral Fellow / 2022 - 2025</td>
   <td>Postdoctoral Fellow @ UCLA (Bhaduri Lab)</td>
 </tr>
+<tr>
+  <td>Eliana Bondra, PhD</td>
+  <td>Postdoctoral Fellow / 2024 - 2025</td>
+  <td>Scientist @ Natera</td>
+</tr>
 </table>
