@@ -133,7 +133,7 @@ subtitle: Ramani Lab Members
 <tr>
   <td>Iryna Irkliyenko</td>
   <td>Research Associate / 2022 - 2024</td>
-  <td>PhD Program @ UCSF / UC Berkeley (Bioengineering)</td>
+  <td>PhD Program @ UCSF / UC Berkeley (Bioengineering; Abate & Coyote-Maestas Labs)</td>
 </tr>
 <tr>
   <td>Marty Yang, PhD</td>
