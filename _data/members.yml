@@ -168,6 +168,26 @@ I joined the Ramani lab in 2022 and aim to combine my knowledge of physiology an
 # orcid: "orcid.org/0000-0003-3345-5960"
   description: "I obtained my PhD from the Indian Institute of Science Education and Research (IISER) in Pune, where I investigated the mechanisms governing transcriptional regulation of human XIST. Prior to joining the Gladstone Institutes, I was a postdoc in the lab of Dr. Elphege Nora at UCSF, focusing on 3D genome folding and with Prof. Frederick Alt at the Boston Children’s Hospital, working on the molecular aspects of antibody class-switch recombination. My broad research interest is to understand long-range gene regulation. When not in the lab, I enjoy reading books, watching sports, running, and hiking."
 
+- name: Jose Nunez, BS
+  image: /img/jose.jpg
+  altimage: /img/jose.jpg
+  position: Research Associate
+  email: jose.nunez (at) gladstone.ucsf.edu
+#  scholar: yZKmvUYAAAAJ
+#  twitter: "SivaKasinathan"
+# orcid: "orcid.org/0000-0003-3345-5960"
+  description: "I graduated from UCSB in 2023 with a B.S. in mechanical engineering. During my undergrad, I developed optogenetic tools to interrogate integrated stress response dynamics. I interned at the Shipman Lab at Gladstone in the summer of 2022, as part of the UCSF Amgen Scholars Program, where I studied the mitochondrial import of proteins. After graduating, I worked in R&D at two startups, developing platforms for pooled protein expression assays and pooled low-cost gene synthesis. As part of the Ramani Lab, I'm excited to investigate the effects of chromatin and sequence context on transcription factor binding events using minimal in-vitro systems."
+
+- name: Mariia Halashova, AA
+  image: /img/mariia.jpg
+  altimage: /img/mariia.jpg
+  position: Staff Scientist / Project Manager joint w/ Shipman Lab
+  email: mariia.halashova (at) gladstone.ucsf.edu
+#  scholar: yZKmvUYAAAAJ
+#  twitter: "SivaKasinathan"
+# orcid: "orcid.org/0000-0003-3345-5960"
+  description: "I’m the Administrative Assistant to Dr. Vijay Ramani. I manage scheduling, coordinate travel logistics, and organize as well as execute various administrative processes. I enjoy getting to know everyone in the lab and being a friendly point of contact. My goal is to make things run smoothly behind the scenes, so Dr. Ramani and the lab can focus on advancing their innovative research. Outside of work, I like to read non-fiction and spend time contemplating nature!"
+
 - name: Bertie Woof, PhD
   image: /img/bertie.png
   altimage: /img/bertie.png
