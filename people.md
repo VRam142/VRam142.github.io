@@ -145,4 +145,14 @@ subtitle: Ramani Lab Members
   <td>Postdoctoral Fellow / 2024 - 2025</td>
   <td>Scientist @ Natera</td>
 </tr>
+<tr>
+  <td>Sean Wang</td>
+  <td>Research Associate / 2022 - 2025</td>
+  <td>PhD Program @ Columbia (Biological Sciences)</td>
+</tr>
+<tr>
+  <td>Keerthi Renduchintala</td>
+  <td>Research Associate / 2023 - 2025</td>
+  <td>PhD Program @ UCSF (Biophysics)</td>
+</tr>
 </table>
