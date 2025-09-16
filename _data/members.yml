@@ -70,13 +70,13 @@
 #
 #   I am currently a research specialist in Ramani Lab to help with the development of high-throughput sequencing technologies to study the mechanism of gene regulation in chromatin remodeling and epigenetics. I am excited to start this position and accumulate experience in both experimental skillsets and computational analysis."
 
-- name: Sean Wang, BS
-  image: /img/swang.jpg
-  altimage: /img/swang.jpg
-  position: Research Associate
-  email: sean.wang (at) gladstone.ucsf.edu
-#  scholar:
-  description: "I graduated from Carnegie Mellon University in 2022 with a B.S. in Biology and Psychology and a minor in Human-Computer Interaction. While at CMU, I worked in Dr. Rule’s lab characterizing the Ca-loop of C. albicans thymidylate kinase. I’m excited to join the Ramani Lab to expand and develop my skills in both experimental and computational approaches towards studying gene and transcriptional regulation through novel methodologies. In the future, I hope to continue on to grad school and study genome and transcription in biomedical contexts."
+# - name: Sean Wang, BS
+#   image: /img/swang.jpg
+#   altimage: /img/swang.jpg
+#   position: Research Associate
+#   email: sean.wang (at) gladstone.ucsf.edu
+# #  scholar:
+#   description: "I graduated from Carnegie Mellon University in 2022 with a B.S. in Biology and Psychology and a minor in Human-Computer Interaction. While at CMU, I worked in Dr. Rule’s lab characterizing the Ca-loop of C. albicans thymidylate kinase. I’m excited to join the Ramani Lab to expand and develop my skills in both experimental and computational approaches towards studying gene and transcriptional regulation through novel methodologies. In the future, I hope to continue on to grad school and study genome and transcription in biomedical contexts."
 
 # - name: Marty Yang, PhD
 #   image: /img/myang.JPG
@@ -141,12 +141,12 @@ I joined the Ramani lab in 2022 and aim to combine my knowledge of physiology an
   email: kaite.zhang (at) ucsf.edu
   description: "I graduated from Tufts University in 2016 with a B.S. in Biology and Clinical Psychology. I was an undergraduate researcher in Dr. Benjamin Wolfe’s lab, studying bacterial-fungal interactions using cheese rind microbiomes as model ecosystems. I found that motile bacteria like *Serratia proteamaculans* can utilize fungal hyphae to increase dispersal range, imbuing a growth advantage in the greater microbial community. After graduating, I worked at the Broad Institute in the lab of Dr. Eric Lander, working closely with Drs. Vidya Subramanian and Jesse Engreitz to develop HyPR-seq (hybridization of probes to RNA for sequencing), a method for targeted single-cell sequencing of low expression RNAs. I also worked on developing a high-throughput, combined, single-cell RNA- and DNA-sequencing method using microfluidics. Discovering my interests in technology development and gene regulation, I joined the Ramani Lab in 2023. Here, I aim to develop molecular and computational methods to investigate the mechanisms that underlie chromatin dynamics and genome architecture."
 
-- name: Keerthi Renduchintala, BS
-  image: /img/Keerthi_headshot.jpg
-  altimage: /img/Keerthi_headshot.jpg
-  position: Research Associate
-  email: keerthi.redunchintala (at) gladstone.ucsf.edu
-  description: "I graduated from the University of Washington-Seattle in 2023 with a B.S. in Biochemistry and a minor in Data Science. At UW, I was a student researcher at the Institute for Protein Design under Dr. Cameron Glasscock. As a student researcher, I worked with a cohort of students on a project to computationally design DNA-binding proteins and experimentally validate them. I am excited to be joining the Ramani Lab to grow my computational and laboratory skill sets while studying genomics and transcriptional regulation using novel high-throughput sequencing technologies. I hope to continue to grad school to study computational approaches to understanding diseases."
+# - name: Keerthi Renduchintala, BS
+#   image: /img/Keerthi_headshot.jpg
+#   altimage: /img/Keerthi_headshot.jpg
+#   position: Research Associate
+#   email: keerthi.redunchintala (at) gladstone.ucsf.edu
+#   description: "I graduated from the University of Washington-Seattle in 2023 with a B.S. in Biochemistry and a minor in Data Science. At UW, I was a student researcher at the Institute for Protein Design under Dr. Cameron Glasscock. As a student researcher, I worked with a cohort of students on a project to computationally design DNA-binding proteins and experimentally validate them. I am excited to be joining the Ramani Lab to grow my computational and laboratory skill sets while studying genomics and transcriptional regulation using novel high-throughput sequencing technologies. I hope to continue to grad school to study computational approaches to understanding diseases."
 
 # - name: Eliana Bondra, PhD
 #   image: /img/ERB_portrait.png
