@@ -76,6 +76,11 @@ subtitle: Ramani Lab Members
   <td>BMI / Fall / 22-23</td>
   <td>Ye Lab</td>
 </tr>
+<tr>
+  <td>Nikhil Gupta</td>
+  <td>Biophysics / Fall / 24-25</td>
+  <td>Fraser Lab</td>
+</tr>
 </table>
 <hr>
 <strong>Lab Alumni</strong>: <br>
