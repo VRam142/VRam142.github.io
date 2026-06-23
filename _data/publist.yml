@@ -1,10 +1,16 @@
+- authors: "<b>Yang MG</b>, <b>Richter HJ</b>, <b>Wang S</b>, McNally CP , Moore CM, Emadi A, Harris NE, Dhillon S, Maresca M, Pan H, Saunders H, Yang R, Ostrowski MS, Anderson EC, de Wit E, Maher JJ, Fan Y, Narlikar GJ, Nora EP, Willenbring H, Goodarzi H<sup>#</sup>, Ramani V<sup>#</sup>"
+  title: Pervasive and programmed nucleosome distortion on single chromatin fibres
+  journal: Nature
+  date:  2026 April 29
+  pmid: 42056506
+  pdf: https://www.nature.com/articles/s41586-026-10418-6.pdf
+
 - authors: "<b>Moore CM</b>, Wong E, Kaur U, Chio US, Zhou Z, Ostrowski MS, Wu K, Irkliyenko I, Wang S, Ramani V<sup>#</sup>, Narlikar GJ<sup>#</sup>"
   title: ATP-dependent remodeling of chromatin condensates reveals distinct mesoscale outcomes
   journal: Science
   date: 2025 October 2
   pmid: 41037607
   pdf: /pubpdfs/samosachaat_imaging.pdf
-
 
 - authors: "<b>Ostrowski MS</b>, <b>Yang MG</b>, McNally CP, Abdulhay NJ, Wang S, Renduchintala K, Irkliyenko I, Biran A, Chew BTL, Midha AD, Wong EV, Sandoval J, Jain IH, Groth A, Nora EP, Goodarzi H, Ramani V<sup>#</sup>"
   title: The single-molecule accessibility landscape of newly replicated mammalian chromatin
